@@ -1,0 +1,7 @@
+# Preserve the downloaded SVG bytes so the source manifest stays verifiable.
+images/*.svg -text
+*.png -text
+*.json text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.py text eol=lf
