@@ -1,0 +1,23 @@
+# Local editor and operating system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Java / Gradle output and local Minecraft runs
+.gradle/
+build/
+out/
+run/
+runs/
+*.class
+*.log
+hs_err_pid*
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+local.properties
