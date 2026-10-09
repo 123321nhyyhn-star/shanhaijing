@@ -1,0 +1,46 @@
+{
+  "animation": "animation.xingxing.stand_observe",
+  "length": 6,
+  "stages": {
+    "rise": [
+      0,
+      0.6
+    ],
+    "pause": [
+      0.6,
+      1.35
+    ],
+    "look": [
+      1.35,
+      4.65
+    ],
+    "sit": [
+      4.65,
+      5.7
+    ],
+    "seated_hold": [
+      5.7,
+      6
+    ]
+  },
+  "yawDegrees": [
+    55,
+    -55
+  ],
+  "ground": {
+    "worst": {
+      "y": -3.908724112520134e-7,
+      "t": 0,
+      "name": "simple_ground_hand_right"
+    },
+    "foot": -2.0664417604157578e-7,
+    "hand": -3.908724112520134e-7
+  },
+  "maxFootError": 0.000009742190264732388,
+  "maxYawError": 0.000006321349701465806,
+  "upperMax": -7.388391376552661,
+  "lowerMax": -5.686369564272206,
+  "seam": 0,
+  "holdMatrixDifference": 0,
+  "otherChanged": []
+}

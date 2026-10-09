@@ -1,0 +1,16 @@
+{
+  "cubes": 19,
+  "tail_cubes": 3,
+  "quad_faces": 114,
+  "meshes": 0,
+  "texture": [
+    128,
+    128
+  ],
+  "uv_in_bounds": true,
+  "mapped_pixels_opaque": true,
+  "export_cubes": 19,
+  "bone_parents_resolved": true,
+  "geometry_identifier": "geometry.shanhaijing.lushu",
+  "verification": "Blockbench live multiview, solid view, temporary joint posing; no Minecraft runtime verification"
+}

@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "animations": 6,
+  "cubes": 25,
+  "geometry_unchanged": true,
+  "rig_unchanged": true,
+  "uv_unchanged": true,
+  "approved_texture_unchanged": true,
+  "valid_export_bone_bindings": true,
+  "native_pose_samples": 1558,
+  "minimum_native_y": 0.03653606564814016,
+  "loop_seams_match": true,
+  "sleep_transition_matches": true,
+  "running_tails_raised": true,
+  "running_tail_amplitudes_differ": true,
+  "sleep_tails_sweep_same_direction": true,
+  "sleep_front_legs_centered": true,
+  "other_three_clips_unchanged": true,
+  "minecraft_runtime_tested": false,
+  "animation_sha256": "67d3e3049731d3909369fbfa929820290743644cb23cf9bfc61d7c1dd6558f24"
+}

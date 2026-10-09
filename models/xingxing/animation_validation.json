@@ -1,0 +1,23 @@
+[
+  {
+    "name": "animation.xingxing.crawl",
+    "length": 1.6,
+    "minGround": -0.0028092601695619626,
+    "maxKeyErr": 0.000005158015586276228,
+    "loopError": 0
+  },
+  {
+    "name": "animation.xingxing.crawl_fast",
+    "length": 0.8,
+    "minGround": -0.0008182763210501107,
+    "maxKeyErr": 0.000004559935441811603,
+    "loopError": 0
+  },
+  {
+    "name": "animation.xingxing.stand_observe",
+    "length": 6,
+    "minGround": -0.0012165406496187187,
+    "maxKeyErr": 0.0000057675112152822805,
+    "loopError": 0
+  }
+]

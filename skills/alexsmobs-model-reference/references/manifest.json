@@ -1,0 +1,17 @@
+{
+  "jar": "alexsmobs-1.22.9.jar",
+  "jar_sha256": "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c",
+  "jar_bytes": 26350793,
+  "file_entries": 5087,
+  "class_entries": 1118,
+  "resource_entries": 3969,
+  "entity_pngs": 402,
+  "model_class_entries": 137,
+  "render_class_entries": 216,
+  "decompiled_java_files": 745,
+  "indexed_model_sources": 135,
+  "preview_eligible_models": 108,
+  "model_sources_with_warnings": 27,
+  "scope": "Static resource extraction and CFR source recovery; no mod code executed.",
+  "limits": "CFR output is not original source, not remapped, and not compile/runtime validated. Constructor parser is partial; renderer texture literals require manual binding review."
+}

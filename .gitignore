@@ -21,3 +21,24 @@ hs_err_pid*
 .env.*
 !.env.example
 local.properties
+__pycache__/
+*.py[cod]
+.aws/
+.ssh/
+.codex/
+.agents/
+*.pem
+*.p12
+*.pfx
+*.key
+*.keystore
+*.jks
+*.kdbx
+
+# Local decoded Alex's Mobs reference data and external decompiler
+/reference/alexsmobs-1.22.9/decompiled/
+/reference/alexsmobs-1.22.9/resources/
+/reference/alexsmobs-1.22.9/tools/
+/reference/alexsmobs-1.22.9/analysis/
+/reference/alexsmobs-1.22.9/live/
+/skills/alexsmobs-model-reference/scripts/__pycache__/

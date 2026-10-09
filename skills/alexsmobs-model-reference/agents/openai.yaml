@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alex’s Mobs 实时建模参考"
+  short_description: "建模前实时打开最接近物种的三维模型，检查结构、骨骼、UV 与纹理制作方式"
+  default_prompt: "使用 $alexsmobs-model-reference，建模前实时打开 Alex’s Mobs 中最接近目标物种的模型，分析其结构、细节、UV、纹理与动作，再制作目标。"

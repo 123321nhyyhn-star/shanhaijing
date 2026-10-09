@@ -1,0 +1,5674 @@
+[
+  {
+    "model": "AMModelLayers",
+    "source": "com/github/alexthe666/alexsmobs/client/model/layered/AMModelLayers.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "No public constructor found; may be a layered Vanilla model."
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": []
+  },
+  {
+    "model": "ModelAMElytra",
+    "source": "com/github/alexthe666/alexsmobs/client/model/layered/ModelAMElytra.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "ModelPart part",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: ModelPart part"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/item/CustomArmorRenderProperties.java",
+        "models": [
+          "ModelAMElytra",
+          "ModelFedora",
+          "ModelFlyingFishBoots",
+          "ModelFrontierCap",
+          "ModelFroststalkerHelmet",
+          "ModelMooseHeadgear",
+          "ModelNoveltyHat",
+          "ModelRoadrunnerBoots",
+          "ModelRockyChestplate",
+          "ModelSombrero",
+          "ModelSpikedTurtleShell",
+          "ModelUnsettlingKimono"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelFedora",
+    "source": "com/github/alexthe666/alexsmobs/client/model/layered/ModelFedora.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "ModelPart part",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: ModelPart part"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/item/CustomArmorRenderProperties.java",
+        "models": [
+          "ModelAMElytra",
+          "ModelFedora",
+          "ModelFlyingFishBoots",
+          "ModelFrontierCap",
+          "ModelFroststalkerHelmet",
+          "ModelMooseHeadgear",
+          "ModelNoveltyHat",
+          "ModelRoadrunnerBoots",
+          "ModelRockyChestplate",
+          "ModelSombrero",
+          "ModelSpikedTurtleShell",
+          "ModelUnsettlingKimono"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelFlyingFishBoots",
+    "source": "com/github/alexthe666/alexsmobs/client/model/layered/ModelFlyingFishBoots.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "ModelPart root",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: ModelPart root"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/item/CustomArmorRenderProperties.java",
+        "models": [
+          "ModelAMElytra",
+          "ModelFedora",
+          "ModelFlyingFishBoots",
+          "ModelFrontierCap",
+          "ModelFroststalkerHelmet",
+          "ModelMooseHeadgear",
+          "ModelNoveltyHat",
+          "ModelRoadrunnerBoots",
+          "ModelRockyChestplate",
+          "ModelSombrero",
+          "ModelSpikedTurtleShell",
+          "ModelUnsettlingKimono"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelFrontierCap",
+    "source": "com/github/alexthe666/alexsmobs/client/model/layered/ModelFrontierCap.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "ModelPart p_170677_",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: ModelPart p_170677_"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/item/CustomArmorRenderProperties.java",
+        "models": [
+          "ModelAMElytra",
+          "ModelFedora",
+          "ModelFlyingFishBoots",
+          "ModelFrontierCap",
+          "ModelFroststalkerHelmet",
+          "ModelMooseHeadgear",
+          "ModelNoveltyHat",
+          "ModelRoadrunnerBoots",
+          "ModelRockyChestplate",
+          "ModelSombrero",
+          "ModelSpikedTurtleShell",
+          "ModelUnsettlingKimono"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelFroststalkerHelmet",
+    "source": "com/github/alexthe666/alexsmobs/client/model/layered/ModelFroststalkerHelmet.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "ModelPart part",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: ModelPart part"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/item/CustomArmorRenderProperties.java",
+        "models": [
+          "ModelAMElytra",
+          "ModelFedora",
+          "ModelFlyingFishBoots",
+          "ModelFrontierCap",
+          "ModelFroststalkerHelmet",
+          "ModelMooseHeadgear",
+          "ModelNoveltyHat",
+          "ModelRoadrunnerBoots",
+          "ModelRockyChestplate",
+          "ModelSombrero",
+          "ModelSpikedTurtleShell",
+          "ModelUnsettlingKimono"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelMooseHeadgear",
+    "source": "com/github/alexthe666/alexsmobs/client/model/layered/ModelMooseHeadgear.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "ModelPart p_170677_",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: ModelPart p_170677_"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/item/CustomArmorRenderProperties.java",
+        "models": [
+          "ModelAMElytra",
+          "ModelFedora",
+          "ModelFlyingFishBoots",
+          "ModelFrontierCap",
+          "ModelFroststalkerHelmet",
+          "ModelMooseHeadgear",
+          "ModelNoveltyHat",
+          "ModelRoadrunnerBoots",
+          "ModelRockyChestplate",
+          "ModelSombrero",
+          "ModelSpikedTurtleShell",
+          "ModelUnsettlingKimono"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelNoveltyHat",
+    "source": "com/github/alexthe666/alexsmobs/client/model/layered/ModelNoveltyHat.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "ModelPart part",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: ModelPart part"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/item/CustomArmorRenderProperties.java",
+        "models": [
+          "ModelAMElytra",
+          "ModelFedora",
+          "ModelFlyingFishBoots",
+          "ModelFrontierCap",
+          "ModelFroststalkerHelmet",
+          "ModelMooseHeadgear",
+          "ModelNoveltyHat",
+          "ModelRoadrunnerBoots",
+          "ModelRockyChestplate",
+          "ModelSombrero",
+          "ModelSpikedTurtleShell",
+          "ModelUnsettlingKimono"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelRoadrunnerBoots",
+    "source": "com/github/alexthe666/alexsmobs/client/model/layered/ModelRoadrunnerBoots.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "ModelPart p_170677_",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: ModelPart p_170677_"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/item/CustomArmorRenderProperties.java",
+        "models": [
+          "ModelAMElytra",
+          "ModelFedora",
+          "ModelFlyingFishBoots",
+          "ModelFrontierCap",
+          "ModelFroststalkerHelmet",
+          "ModelMooseHeadgear",
+          "ModelNoveltyHat",
+          "ModelRoadrunnerBoots",
+          "ModelRockyChestplate",
+          "ModelSombrero",
+          "ModelSpikedTurtleShell",
+          "ModelUnsettlingKimono"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelRockyChestplate",
+    "source": "com/github/alexthe666/alexsmobs/client/model/layered/ModelRockyChestplate.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "ModelPart root",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: ModelPart root"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/item/CustomArmorRenderProperties.java",
+        "models": [
+          "ModelAMElytra",
+          "ModelFedora",
+          "ModelFlyingFishBoots",
+          "ModelFrontierCap",
+          "ModelFroststalkerHelmet",
+          "ModelMooseHeadgear",
+          "ModelNoveltyHat",
+          "ModelRoadrunnerBoots",
+          "ModelRockyChestplate",
+          "ModelSombrero",
+          "ModelSpikedTurtleShell",
+          "ModelUnsettlingKimono"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelSombrero",
+    "source": "com/github/alexthe666/alexsmobs/client/model/layered/ModelSombrero.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "ModelPart p_170677_",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: ModelPart p_170677_"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/item/CustomArmorRenderProperties.java",
+        "models": [
+          "ModelAMElytra",
+          "ModelFedora",
+          "ModelFlyingFishBoots",
+          "ModelFrontierCap",
+          "ModelFroststalkerHelmet",
+          "ModelMooseHeadgear",
+          "ModelNoveltyHat",
+          "ModelRoadrunnerBoots",
+          "ModelRockyChestplate",
+          "ModelSombrero",
+          "ModelSpikedTurtleShell",
+          "ModelUnsettlingKimono"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/layer/LayerCockroachMaracas.java",
+        "models": [
+          "ModelSombrero"
+        ],
+        "texture_literals": [
+          "textures/armor/sombrero.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelSpikedTurtleShell",
+    "source": "com/github/alexthe666/alexsmobs/client/model/layered/ModelSpikedTurtleShell.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "ModelPart p_170677_",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: ModelPart p_170677_"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/item/CustomArmorRenderProperties.java",
+        "models": [
+          "ModelAMElytra",
+          "ModelFedora",
+          "ModelFlyingFishBoots",
+          "ModelFrontierCap",
+          "ModelFroststalkerHelmet",
+          "ModelMooseHeadgear",
+          "ModelNoveltyHat",
+          "ModelRoadrunnerBoots",
+          "ModelRockyChestplate",
+          "ModelSombrero",
+          "ModelSpikedTurtleShell",
+          "ModelUnsettlingKimono"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelUnsettlingKimono",
+    "source": "com/github/alexthe666/alexsmobs/client/model/layered/ModelUnsettlingKimono.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "ModelPart root",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: ModelPart root"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/item/CustomArmorRenderProperties.java",
+        "models": [
+          "ModelAMElytra",
+          "ModelFedora",
+          "ModelFlyingFishBoots",
+          "ModelFrontierCap",
+          "ModelFroststalkerHelmet",
+          "ModelMooseHeadgear",
+          "ModelNoveltyHat",
+          "ModelRoadrunnerBoots",
+          "ModelRockyChestplate",
+          "ModelSombrero",
+          "ModelSpikedTurtleShell",
+          "ModelUnsettlingKimono"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelAlligatorSnappingTurtle",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelAlligatorSnappingTurtle.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 14,
+    "cube_count": 13,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderAlligatorSnappingTurtle.java",
+        "models": [
+          "ModelAlligatorSnappingTurtle"
+        ],
+        "texture_literals": [
+          "textures/entity/alligator_snapping_turtle.png",
+          "textures/entity/alligator_snapping_turtle_moss.png"
+        ],
+        "layer_constructors": [
+          "AlligatorSnappingTurtleMossLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelAnaconda",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelAnaconda.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "AnacondaPartIndex index",
+    "part_count": 3,
+    "cube_count": 7,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 7,
+    "animation_helpers": [
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: AnacondaPartIndex index",
+      "Conditional/loop constructor: extracted parts are a union, NOT one pose."
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderAnaconda.java",
+        "models": [
+          "ModelAnaconda"
+        ],
+        "texture_literals": [
+          "textures/entity/anaconda.png",
+          "textures/entity/anaconda_shedding.png",
+          "textures/entity/anaconda_yellow.png",
+          "textures/entity/anaconda_yellow_shedding.png"
+        ],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderAnacondaPart.java",
+        "models": [
+          "ModelAnaconda"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelAncientDart",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelAncientDart.java",
+    "texture_size": [
+      32,
+      32
+    ],
+    "constructor_parameters": "",
+    "part_count": 5,
+    "cube_count": 4,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 4,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/layer/LayerCapuchinItem.java",
+        "models": [
+          "ModelAncientDart"
+        ],
+        "texture_literals": [
+          "textures/entity/ancient_dart.png"
+        ],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderTossedItem.java",
+        "models": [
+          "ModelAncientDart"
+        ],
+        "texture_literals": [
+          "textures/entity/ancient_dart.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelAnteater",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelAnteater.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 15,
+    "cube_count": 16,
+    "zero_thickness_count": 6,
+    "mirrored_cube_count": 5,
+    "declared_addbox_count": 16,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_SLASH_L",
+      "ANIMATION_SLASH_R"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderAnteater.java",
+        "models": [
+          "ModelAnteater"
+        ],
+        "texture_literals": [
+          "textures/entity/anteater.png",
+          "textures/entity/anteater_peter.png"
+        ],
+        "layer_constructors": [
+          "LayerAnteaterBaby",
+          "LayerAnteaterTongueItem"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelBaldEagle",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelBaldEagle.java",
+    "texture_size": [
+      64,
+      32
+    ],
+    "constructor_parameters": "",
+    "part_count": 20,
+    "cube_count": 18,
+    "zero_thickness_count": 5,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 18,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderBaldEagle.java",
+        "models": [
+          "ModelBaldEagle"
+        ],
+        "texture_literals": [
+          "textures/entity/bald_eagle.png",
+          "textures/entity/bald_eagle_hood.png"
+        ],
+        "layer_constructors": [
+          "CapLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelBananaSlug",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelBananaSlug.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 6,
+    "cube_count": 5,
+    "zero_thickness_count": 3,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 5,
+    "animation_helpers": [
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderBananaSlug.java",
+        "models": [
+          "ModelBananaSlug"
+        ],
+        "texture_literals": [
+          "textures/entity/banana_slug/banana_slug_0.png",
+          "textures/entity/banana_slug/banana_slug_1.png",
+          "textures/entity/banana_slug/banana_slug_2.png",
+          "textures/entity/banana_slug/banana_slug_3.png",
+          "textures/entity/banana_slug/banana_slug_slime.png"
+        ],
+        "layer_constructors": [
+          "LayerSlime"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelBison",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelBison.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 14,
+    "cube_count": 16,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 5,
+    "declared_addbox_count": 16,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_ATTACK",
+      "ANIMATION_EAT",
+      "ANIMATION_PREPARE_CHARGE"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderBison.java",
+        "models": [
+          "ModelBison",
+          "ModelBisonBaby"
+        ],
+        "texture_literals": [
+          "textures/entity/bison.png",
+          "textures/entity/bison_baby.png",
+          "textures/entity/bison_baby_snowy.png",
+          "textures/entity/bison_sheared.png",
+          "textures/entity/bison_snowy.png"
+        ],
+        "layer_constructors": [
+          "LayerSnow"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelBisonBaby",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelBisonBaby.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 11,
+    "cube_count": 10,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 10,
+    "animation_helpers": [
+      "bob",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_EAT"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderBison.java",
+        "models": [
+          "ModelBison",
+          "ModelBisonBaby"
+        ],
+        "texture_literals": [
+          "textures/entity/bison.png",
+          "textures/entity/bison_baby.png",
+          "textures/entity/bison_baby_snowy.png",
+          "textures/entity/bison_sheared.png",
+          "textures/entity/bison_snowy.png"
+        ],
+        "layer_constructors": [
+          "LayerSnow"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelBlobfish",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelBlobfish.java",
+    "texture_size": [
+      32,
+      32
+    ],
+    "constructor_parameters": "",
+    "part_count": 7,
+    "cube_count": 6,
+    "zero_thickness_count": 3,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 6,
+    "animation_helpers": [
+      "swing"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderBlobfish.java",
+        "models": [
+          "ModelBlobfish",
+          "ModelBlobfishDepressurized"
+        ],
+        "texture_literals": [
+          "textures/entity/blobfish.png",
+          "textures/entity/blobfish_depressurized.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelBlobfishDepressurized",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelBlobfishDepressurized.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 7,
+    "cube_count": 6,
+    "zero_thickness_count": 3,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 6,
+    "animation_helpers": [
+      "flap",
+      "swing"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderBlobfish.java",
+        "models": [
+          "ModelBlobfish",
+          "ModelBlobfishDepressurized"
+        ],
+        "texture_literals": [
+          "textures/entity/blobfish.png",
+          "textures/entity/blobfish_depressurized.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelBlueJay",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelBlueJay.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 9,
+    "cube_count": 9,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 9,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderBlueJay.java",
+        "models": [
+          "ModelBlueJay"
+        ],
+        "texture_literals": [
+          "textures/entity/blue_jay.png",
+          "textures/entity/blue_jay_shiny.png"
+        ],
+        "layer_constructors": [
+          "LayerShiny"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelBoneSerpentBody",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelBoneSerpentBody.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 2,
+    "cube_count": 2,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 2,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderBoneSerpentPart.java",
+        "models": [
+          "ModelBoneSerpentBody",
+          "ModelBoneSerpentTail"
+        ],
+        "texture_literals": [
+          "textures/entity/bone_serpent_mid.png",
+          "textures/entity/bone_serpent_tail.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelBoneSerpentHead",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelBoneSerpentHead.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 6,
+    "cube_count": 5,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 5,
+    "animation_helpers": [
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderBoneSerpent.java",
+        "models": [
+          "ModelBoneSerpentHead"
+        ],
+        "texture_literals": [
+          "textures/entity/bone_serpent_head.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelBoneSerpentTail",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelBoneSerpentTail.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 2,
+    "cube_count": 2,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 2,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderBoneSerpentPart.java",
+        "models": [
+          "ModelBoneSerpentBody",
+          "ModelBoneSerpentTail"
+        ],
+        "texture_literals": [
+          "textures/entity/bone_serpent_mid.png",
+          "textures/entity/bone_serpent_tail.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelBunfungus",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelBunfungus.java",
+    "texture_size": [
+      256,
+      256
+    ],
+    "constructor_parameters": "",
+    "part_count": 18,
+    "cube_count": 15,
+    "zero_thickness_count": 3,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 15,
+    "animation_helpers": [
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_BELLY",
+      "ANIMATION_EAT",
+      "ANIMATION_SLAM"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderBunfungus.java",
+        "models": [
+          "ModelBunfungus"
+        ],
+        "texture_literals": [
+          "textures/entity/bunfungus.png",
+          "textures/entity/bunfungus_sleeping.png"
+        ],
+        "layer_constructors": [
+          "LayerHeldItem"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelCachalotWhale",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCachalotWhale.java",
+    "texture_size": [
+      512,
+      512
+    ],
+    "constructor_parameters": "",
+    "part_count": 11,
+    "cube_count": 10,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 10,
+    "animation_helpers": [
+      "bob",
+      "chainWave",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCachalotWhale.java",
+        "models": [
+          "ModelCachalotWhale"
+        ],
+        "texture_literals": [
+          "textures/entity/cachalot/cachalot_whale.png",
+          "textures/entity/cachalot/cachalot_whale_albino.png",
+          "textures/entity/cachalot/cachalot_whale_albino_sleeping.png",
+          "textures/entity/cachalot/cachalot_whale_sleeping.png"
+        ],
+        "layer_constructors": [
+          "LayerCachalotWhaleCapturedSquid"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelCaiman",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCaiman.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 16,
+    "cube_count": 21,
+    "zero_thickness_count": 6,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 21,
+    "animation_helpers": [
+      "bob",
+      "chainSwing",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCaiman.java",
+        "models": [
+          "ModelCaiman"
+        ],
+        "texture_literals": [
+          "textures/entity/caiman.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelCapuchinMonkey",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCapuchinMonkey.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 12,
+    "cube_count": 10,
+    "zero_thickness_count": 1,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 10,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_HEADTILT",
+      "ANIMATION_SCRATCH",
+      "ANIMATION_THROW"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCapuchinMonkey.java",
+        "models": [
+          "ModelCapuchinMonkey"
+        ],
+        "texture_literals": [
+          "textures/entity/capuchin_monkey_0.png",
+          "textures/entity/capuchin_monkey_1.png",
+          "textures/entity/capuchin_monkey_2.png",
+          "textures/entity/capuchin_monkey_3.png"
+        ],
+        "layer_constructors": [
+          "LayerCapuchinItem"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelCatfishLarge",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCatfishLarge.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 12,
+    "cube_count": 13,
+    "zero_thickness_count": 10,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "bob",
+      "chainSwing",
+      "flap",
+      "swing"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCatfish.java",
+        "models": [
+          "ModelCatfishLarge",
+          "ModelCatfishMedium",
+          "ModelCatfishSmall"
+        ],
+        "texture_literals": [
+          "textures/entity/catfish_large.png",
+          "textures/entity/catfish_large_spit.png",
+          "textures/entity/catfish_medium.png",
+          "textures/entity/catfish_medium_spit.png",
+          "textures/entity/catfish_small.png",
+          "textures/entity/catfish_small_spit.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelCatfishMedium",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCatfishMedium.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 12,
+    "cube_count": 13,
+    "zero_thickness_count": 10,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "bob",
+      "chainSwing",
+      "flap",
+      "swing"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCatfish.java",
+        "models": [
+          "ModelCatfishLarge",
+          "ModelCatfishMedium",
+          "ModelCatfishSmall"
+        ],
+        "texture_literals": [
+          "textures/entity/catfish_large.png",
+          "textures/entity/catfish_large_spit.png",
+          "textures/entity/catfish_medium.png",
+          "textures/entity/catfish_medium_spit.png",
+          "textures/entity/catfish_small.png",
+          "textures/entity/catfish_small_spit.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelCatfishSmall",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCatfishSmall.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 9,
+    "cube_count": 10,
+    "zero_thickness_count": 8,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 10,
+    "animation_helpers": [
+      "bob",
+      "chainSwing",
+      "flap",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCatfish.java",
+        "models": [
+          "ModelCatfishLarge",
+          "ModelCatfishMedium",
+          "ModelCatfishSmall"
+        ],
+        "texture_literals": [
+          "textures/entity/catfish_large.png",
+          "textures/entity/catfish_large_spit.png",
+          "textures/entity/catfish_medium.png",
+          "textures/entity/catfish_medium_spit.png",
+          "textures/entity/catfish_small.png",
+          "textures/entity/catfish_small_spit.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelCaveCentipede",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCaveCentipede.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "int type",
+    "part_count": 30,
+    "cube_count": 27,
+    "zero_thickness_count": 13,
+    "mirrored_cube_count": 11,
+    "declared_addbox_count": 27,
+    "animation_helpers": [
+      "flap",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: int type",
+      "Conditional/loop constructor: extracted parts are a union, NOT one pose."
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCentipedeBody.java",
+        "models": [
+          "ModelCaveCentipede"
+        ],
+        "texture_literals": [
+          "textures/entity/cave_centipede.png"
+        ],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCentipedeHead.java",
+        "models": [
+          "ModelCaveCentipede"
+        ],
+        "texture_literals": [
+          "textures/entity/cave_centipede.png"
+        ],
+        "layer_constructors": [
+          "LayerCentipedeHeadEyes"
+        ]
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCentipedeTail.java",
+        "models": [
+          "ModelCaveCentipede"
+        ],
+        "texture_literals": [
+          "textures/entity/cave_centipede.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelCockroach",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCockroach.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 14,
+    "cube_count": 13,
+    "zero_thickness_count": 8,
+    "mirrored_cube_count": 5,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCockroach.java",
+        "models": [
+          "ModelCockroach"
+        ],
+        "texture_literals": [
+          "textures/entity/cockroach.png"
+        ],
+        "layer_constructors": [
+          "LayerCockroachMaracas"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelCombJelly",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCombJelly.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "float f",
+    "part_count": 3,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 2,
+    "animation_helpers": [
+      "bob"
+    ],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: float f",
+      "Nonliteral argument: f at line 34",
+      "Nonliteral argument: f at line 38",
+      "Indexed 0 of 2 constructor addBox calls."
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCombJelly.java",
+        "models": [
+          "ModelCombJelly"
+        ],
+        "texture_literals": [
+          "textures/entity/comb_jelly_blue.png",
+          "textures/entity/comb_jelly_green.png",
+          "textures/entity/comb_jelly_overlay.png",
+          "textures/entity/comb_jelly_red.png"
+        ],
+        "layer_constructors": [
+          "RainbowLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelCosmaw",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCosmaw.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 18,
+    "cube_count": 20,
+    "zero_thickness_count": 7,
+    "mirrored_cube_count": 6,
+    "declared_addbox_count": 20,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCosmaw.java",
+        "models": [
+          "ModelCosmaw"
+        ],
+        "texture_literals": [
+          "textures/entity/cosmaw.png",
+          "textures/entity/cosmaw_glow.png"
+        ],
+        "layer_constructors": [
+          "LayerBasicGlow",
+          "LayerHeldItem"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelCosmicCod",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCosmicCod.java",
+    "texture_size": [
+      32,
+      32
+    ],
+    "constructor_parameters": "",
+    "part_count": 7,
+    "cube_count": 7,
+    "zero_thickness_count": 4,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 7,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "swing"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCosmicCod.java",
+        "models": [
+          "ModelCosmicCod"
+        ],
+        "texture_literals": [
+          "textures/entity/cosmic_cod.png",
+          "textures/entity/cosmic_cod_eyes.png"
+        ],
+        "layer_constructors": [
+          "LayerBasicGlow"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelCrimsonMosquito",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCrimsonMosquito.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 17,
+    "cube_count": 14,
+    "zero_thickness_count": 10,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 14,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCrimsonMosquito.java",
+        "models": [
+          "ModelCrimsonMosquito"
+        ],
+        "texture_literals": [
+          "textures/entity/crimson_mosquito.png",
+          "textures/entity/crimson_mosquito_blue.png",
+          "textures/entity/crimson_mosquito_fly.png",
+          "textures/entity/crimson_mosquito_fly_blue.png"
+        ],
+        "layer_constructors": [
+          "LayerCrimsonMosquitoBlood"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelCrocodile",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCrocodile.java",
+    "texture_size": [
+      256,
+      256
+    ],
+    "constructor_parameters": "",
+    "part_count": 21,
+    "cube_count": 26,
+    "zero_thickness_count": 5,
+    "mirrored_cube_count": 6,
+    "declared_addbox_count": 26,
+    "animation_helpers": [
+      "chainSwing",
+      "faceTarget",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_DEATHROLL",
+      "ANIMATION_LUNGE"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCrocodile.java",
+        "models": [
+          "ModelCrocodile"
+        ],
+        "texture_literals": [
+          "textures/entity/crocodile_0.png",
+          "textures/entity/crocodile_1.png",
+          "textures/entity/crocodile_crown.png"
+        ],
+        "layer_constructors": [
+          "CrownLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelCrow",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelCrow.java",
+    "texture_size": [
+      32,
+      32
+    ],
+    "constructor_parameters": "",
+    "part_count": 9,
+    "cube_count": 8,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 8,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderCrow.java",
+        "models": [
+          "ModelCrow"
+        ],
+        "texture_literals": [
+          "textures/entity/crow.png"
+        ],
+        "layer_constructors": [
+          "LayerCrowItem"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelDevilsHolePupfish",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelDevilsHolePupfish.java",
+    "texture_size": [
+      32,
+      32
+    ],
+    "constructor_parameters": "",
+    "part_count": 7,
+    "cube_count": 6,
+    "zero_thickness_count": 5,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 6,
+    "animation_helpers": [
+      "bob",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderDevilsHolePupfish.java",
+        "models": [
+          "ModelDevilsHolePupfish"
+        ],
+        "texture_literals": [
+          "textures/entity/devils_hole_pupfish.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelDropBear",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelDropBear.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 14,
+    "cube_count": 15,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 5,
+    "declared_addbox_count": 15,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_BITE",
+      "ANIMATION_JUMPUP",
+      "ANIMATION_SWIPE_L",
+      "ANIMATION_SWIPE_R"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderDropBear.java",
+        "models": [
+          "ModelDropBear"
+        ],
+        "texture_literals": [
+          "textures/entity/dropbear.png",
+          "textures/entity/dropbear_eyes.png"
+        ],
+        "layer_constructors": [
+          "EyeLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelElephant",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelElephant.java",
+    "texture_size": [
+      256,
+      256
+    ],
+    "constructor_parameters": "float f",
+    "part_count": 19,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 21,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_BREAKLEAVES",
+      "ANIMATION_CHARGE_PREPARE",
+      "ANIMATION_EAT",
+      "ANIMATION_FLING",
+      "ANIMATION_STOMP",
+      "ANIMATION_TRUMPET_0",
+      "ANIMATION_TRUMPET_1"
+    ],
+    "warnings": [
+      "Constructor parameters require renderer inspection: float f",
+      "Nonliteral argument: f at line 60",
+      "Nonliteral argument: f at line 64",
+      "Nonliteral argument: f at line 65",
+      "Nonliteral argument: f at line 69",
+      "Nonliteral argument: f at line 73",
+      "Nonliteral argument: f at line 78",
+      "Nonliteral argument: f at line 82",
+      "Nonliteral argument: f at line 86",
+      "Nonliteral argument: f at line 90",
+      "Nonliteral argument: f at line 94",
+      "Nonliteral argument: f at line 98",
+      "Nonliteral argument: f at line 103",
+      "Nonliteral argument: f at line 108",
+      "Nonliteral argument: f at line 113",
+      "Nonliteral argument: f at line 114",
+      "Nonliteral argument: f at line 119",
+      "Nonliteral argument: f at line 120",
+      "Nonliteral argument: f at line 125",
+      "Nonliteral argument: f at line 130",
+      "Nonliteral argument: f at line 134",
+      "Nonliteral argument: f at line 138",
+      "Indexed 0 of 21 constructor addBox calls."
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/layer/LayerElephantOverlays.java",
+        "models": [
+          "ModelElephant"
+        ],
+        "texture_literals": [
+          "textures/entity/elephant/decor/black.png",
+          "textures/entity/elephant/decor/blue.png",
+          "textures/entity/elephant/decor/brown.png",
+          "textures/entity/elephant/decor/cyan.png",
+          "textures/entity/elephant/decor/gray.png",
+          "textures/entity/elephant/decor/green.png",
+          "textures/entity/elephant/decor/light_blue.png",
+          "textures/entity/elephant/decor/light_gray.png",
+          "textures/entity/elephant/decor/lime.png",
+          "textures/entity/elephant/decor/magenta.png",
+          "textures/entity/elephant/decor/orange.png",
+          "textures/entity/elephant/decor/pink.png",
+          "textures/entity/elephant/decor/purple.png",
+          "textures/entity/elephant/decor/red.png",
+          "textures/entity/elephant/decor/trader.png",
+          "textures/entity/elephant/decor/white.png",
+          "textures/entity/elephant/decor/yellow.png",
+          "textures/entity/elephant/elephant_chest.png"
+        ],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderElephant.java",
+        "models": [
+          "ModelElephant"
+        ],
+        "texture_literals": [
+          "textures/entity/elephant/elephant.png",
+          "textures/entity/elephant/elephant_tusks.png"
+        ],
+        "layer_constructors": [
+          "LayerElephantItem",
+          "LayerElephantOverlays"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelEmu",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelEmu.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 14,
+    "cube_count": 13,
+    "zero_thickness_count": 1,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_DODGE_LEFT",
+      "ANIMATION_DODGE_RIGHT",
+      "ANIMATION_PECK_GROUND",
+      "ANIMATION_PUZZLED",
+      "ANIMATION_SCRATCH"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderEmu.java",
+        "models": [
+          "ModelEmu"
+        ],
+        "texture_literals": [
+          "textures/entity/emu.png",
+          "textures/entity/emu_baby.png",
+          "textures/entity/emu_baby_blonde.png",
+          "textures/entity/emu_blonde.png",
+          "textures/entity/emu_blue.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelEndergrade",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelEndergrade.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 12,
+    "cube_count": 11,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 11,
+    "animation_helpers": [
+      "chainFlap",
+      "chainWave",
+      "swing"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderEndergrade.java",
+        "models": [
+          "ModelEndergrade"
+        ],
+        "texture_literals": [
+          "textures/entity/endergrade.png"
+        ],
+        "layer_constructors": [
+          "LayerEndergradeSaddle"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelEnderiophage",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelEnderiophage.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 19,
+    "cube_count": 12,
+    "zero_thickness_count": 6,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 12,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderEnderiophage.java",
+        "models": [
+          "ModelEnderiophage"
+        ],
+        "texture_literals": [
+          "textures/entity/enderiophage.png",
+          "textures/entity/enderiophage_glow.png",
+          "textures/entity/enderiophage_nether.png",
+          "textures/entity/enderiophage_nether_glow.png",
+          "textures/entity/enderiophage_overworld.png",
+          "textures/entity/enderiophage_overworld_glow.png"
+        ],
+        "layer_constructors": [
+          "EnderiophageEyesLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelEndPirateAnchor",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelEndPirateAnchor.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 5,
+    "cube_count": 9,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 9,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/AMItemstackRenderer.java",
+        "models": [
+          "ModelEndPirateAnchor",
+          "ModelEndPirateAnchorWinch",
+          "ModelEndPirateShipWheel",
+          "ModelMysteriousWorm",
+          "ModelShieldOfTheDeep",
+          "ModelTransmutationTable"
+        ],
+        "texture_literals": [
+          "textures/armor/shield_of_the_deep.png",
+          "textures/entity/end_pirate/anchor.png",
+          "textures/entity/end_pirate/anchor_winch.png",
+          "textures/entity/end_pirate/ship_wheel.png",
+          "textures/entity/farseer/transmutation_table.png",
+          "textures/entity/farseer/transmutation_table_glow.png",
+          "textures/entity/farseer/transmutation_table_overlay.png",
+          "textures/item/mysterious_worm_model.png"
+        ],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/tile/RenderEndPirateAnchor.java",
+        "models": [
+          "ModelEndPirateAnchor"
+        ],
+        "texture_literals": [
+          "textures/entity/end_pirate/anchor.png",
+          "textures/entity/end_pirate/anchor_glow.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelEndPirateAnchorChain",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelEndPirateAnchorChain.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "",
+    "part_count": 2,
+    "cube_count": 4,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 4,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Missing literal texture dimensions."
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/tile/RenderEndPirateAnchorWinch.java",
+        "models": [
+          "ModelEndPirateAnchorChain",
+          "ModelEndPirateAnchorWinch"
+        ],
+        "texture_literals": [
+          "textures/entity/end_pirate/anchor_chain.png",
+          "textures/entity/end_pirate/anchor_winch.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelEndPirateAnchorWinch",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelEndPirateAnchorWinch.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 2,
+    "cube_count": 1,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 1,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/AMItemstackRenderer.java",
+        "models": [
+          "ModelEndPirateAnchor",
+          "ModelEndPirateAnchorWinch",
+          "ModelEndPirateShipWheel",
+          "ModelMysteriousWorm",
+          "ModelShieldOfTheDeep",
+          "ModelTransmutationTable"
+        ],
+        "texture_literals": [
+          "textures/armor/shield_of_the_deep.png",
+          "textures/entity/end_pirate/anchor.png",
+          "textures/entity/end_pirate/anchor_winch.png",
+          "textures/entity/end_pirate/ship_wheel.png",
+          "textures/entity/farseer/transmutation_table.png",
+          "textures/entity/farseer/transmutation_table_glow.png",
+          "textures/entity/farseer/transmutation_table_overlay.png",
+          "textures/item/mysterious_worm_model.png"
+        ],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/tile/RenderEndPirateAnchorWinch.java",
+        "models": [
+          "ModelEndPirateAnchorChain",
+          "ModelEndPirateAnchorWinch"
+        ],
+        "texture_literals": [
+          "textures/entity/end_pirate/anchor_chain.png",
+          "textures/entity/end_pirate/anchor_winch.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelEndPirateDoor",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelEndPirateDoor.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 3,
+    "cube_count": 2,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 2,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/tile/RenderEndPirateDoor.java",
+        "models": [
+          "ModelEndPirateDoor"
+        ],
+        "texture_literals": [
+          "textures/entity/end_pirate/door.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelEndPirateFlag",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelEndPirateFlag.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 4,
+    "cube_count": 3,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 3,
+    "animation_helpers": [
+      "swing"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/tile/RenderEndPirateFlag.java",
+        "models": [
+          "ModelEndPirateFlag"
+        ],
+        "texture_literals": [
+          "textures/entity/end_pirate/flag.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelEndPirateShipWheel",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelEndPirateShipWheel.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 2,
+    "cube_count": 6,
+    "zero_thickness_count": 1,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 6,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/AMItemstackRenderer.java",
+        "models": [
+          "ModelEndPirateAnchor",
+          "ModelEndPirateAnchorWinch",
+          "ModelEndPirateShipWheel",
+          "ModelMysteriousWorm",
+          "ModelShieldOfTheDeep",
+          "ModelTransmutationTable"
+        ],
+        "texture_literals": [
+          "textures/armor/shield_of_the_deep.png",
+          "textures/entity/end_pirate/anchor.png",
+          "textures/entity/end_pirate/anchor_winch.png",
+          "textures/entity/end_pirate/ship_wheel.png",
+          "textures/entity/farseer/transmutation_table.png",
+          "textures/entity/farseer/transmutation_table_glow.png",
+          "textures/entity/farseer/transmutation_table_overlay.png",
+          "textures/item/mysterious_worm_model.png"
+        ],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/tile/RenderEndPirateShipWheel.java",
+        "models": [
+          "ModelEndPirateShipWheel"
+        ],
+        "texture_literals": [
+          "textures/entity/end_pirate/ship_wheel.png",
+          "textures/entity/end_pirate/ship_wheel_glow.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelFarseer",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelFarseer.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "float scale",
+    "part_count": 37,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 32,
+    "animation_helpers": [
+      "bob",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_EMERGE"
+    ],
+    "warnings": [
+      "Constructor parameters require renderer inspection: float scale",
+      "Nonliteral argument: scale at line 74",
+      "Nonliteral argument: scale at line 78",
+      "Nonliteral argument: scale at line 82",
+      "Nonliteral argument: scale at line 86",
+      "Nonliteral argument: scale at line 90",
+      "Nonliteral argument: scale at line 94",
+      "Nonliteral argument: scale at line 98",
+      "Nonliteral argument: scale at line 102",
+      "Nonliteral argument: scale at line 107",
+      "Nonliteral argument: scale at line 111",
+      "Nonliteral argument: scale at line 119",
+      "Nonliteral argument: scale at line 124",
+      "Nonliteral argument: scale at line 129",
+      "Nonliteral argument: scale at line 134",
+      "Nonliteral argument: scale at line 139",
+      "Nonliteral argument: scale at line 143",
+      "Nonliteral argument: scale at line 151",
+      "Nonliteral argument: scale at line 156",
+      "Nonliteral argument: scale at line 161",
+      "Nonliteral argument: scale at line 166",
+      "Nonliteral argument: scale at line 171",
+      "Nonliteral argument: scale at line 175",
+      "Nonliteral argument: scale at line 183",
+      "Nonliteral argument: scale at line 188",
+      "Nonliteral argument: scale at line 193",
+      "Nonliteral argument: scale at line 198",
+      "Nonliteral argument: scale at line 203",
+      "Nonliteral argument: scale at line 207",
+      "Nonliteral argument: scale at line 215",
+      "Nonliteral argument: scale at line 220",
+      "Nonliteral argument: scale at line 225",
+      "Nonliteral argument: scale at line 230",
+      "Indexed 0 of 32 constructor addBox calls."
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderFarseer.java",
+        "models": [
+          "ModelFarseer"
+        ],
+        "texture_literals": [
+          "textures/entity/farseer/farseer.png",
+          "textures/entity/farseer/farseer_angry.png",
+          "textures/entity/farseer/farseer_claws.png",
+          "textures/entity/farseer/farseer_eye.png",
+          "textures/entity/farseer/farseer_scars.png",
+          "textures/entity/farseer/portal_0.png",
+          "textures/entity/farseer/portal_1.png",
+          "textures/entity/farseer/portal_2.png",
+          "textures/entity/farseer/portal_3.png"
+        ],
+        "layer_constructors": [
+          "LayerOverlay"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelFart",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelFart.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 3,
+    "cube_count": 3,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 3,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderFart.java",
+        "models": [
+          "ModelFart"
+        ],
+        "texture_literals": [
+          "textures/entity/fart.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelFlutter",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelFlutter.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 12,
+    "cube_count": 11,
+    "zero_thickness_count": 5,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 11,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderFlutter.java",
+        "models": [
+          "ModelFlutter",
+          "ModelFlutterPotted"
+        ],
+        "texture_literals": [
+          "textures/entity/flutter.png",
+          "textures/entity/flutter_eyes.png"
+        ],
+        "layer_constructors": [
+          "LayerBasicGlow"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelFlutterPotted",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelFlutterPotted.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 11,
+    "cube_count": 11,
+    "zero_thickness_count": 6,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 11,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderFlutter.java",
+        "models": [
+          "ModelFlutter",
+          "ModelFlutterPotted"
+        ],
+        "texture_literals": [
+          "textures/entity/flutter.png",
+          "textures/entity/flutter_eyes.png"
+        ],
+        "layer_constructors": [
+          "LayerBasicGlow"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelFly",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelFly.java",
+    "texture_size": [
+      32,
+      32
+    ],
+    "constructor_parameters": "",
+    "part_count": 6,
+    "cube_count": 5,
+    "zero_thickness_count": 3,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 5,
+    "animation_helpers": [
+      "flap",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderFly.java",
+        "models": [
+          "ModelFly"
+        ],
+        "texture_literals": [
+          "textures/entity/fly.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelFlyingFish",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelFlyingFish.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 8,
+    "cube_count": 9,
+    "zero_thickness_count": 6,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 9,
+    "animation_helpers": [
+      "bob",
+      "chainSwing",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderFlyingFish.java",
+        "models": [
+          "ModelFlyingFish"
+        ],
+        "texture_literals": [
+          "textures/entity/flying_fish_0.png",
+          "textures/entity/flying_fish_1.png",
+          "textures/entity/flying_fish_2.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelFrilledShark",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelFrilledShark.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 10,
+    "cube_count": 11,
+    "zero_thickness_count": 7,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 11,
+    "animation_helpers": [
+      "chainSwing",
+      "chainWave",
+      "flap",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_ATTACK"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderFrilledShark.java",
+        "models": [
+          "ModelFrilledShark"
+        ],
+        "texture_literals": [
+          "textures/entity/frilled_shark.png",
+          "textures/entity/frilled_shark_depressurized.png",
+          "textures/entity/frilled_shark_kaiju.png",
+          "textures/entity/frilled_shark_kaiju_depressurized.png",
+          "textures/entity/frilled_shark_teeth.png"
+        ],
+        "layer_constructors": [
+          "TeethLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelFroststalker",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelFroststalker.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 14,
+    "cube_count": 20,
+    "zero_thickness_count": 3,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 20,
+    "animation_helpers": [
+      "bob",
+      "chainSwing",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_BITE",
+      "ANIMATION_SHOVE",
+      "ANIMATION_SLASH_L",
+      "ANIMATION_SLASH_R",
+      "ANIMATION_SPEAK"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderFroststalker.java",
+        "models": [
+          "ModelFroststalker"
+        ],
+        "texture_literals": [
+          "textures/entity/froststalker.png",
+          "textures/entity/froststalker_nospikes.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelGazelle",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelGazelle.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 13,
+    "cube_count": 13,
+    "zero_thickness_count": 1,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_EAT_GRASS",
+      "ANIMATION_FLICK_EARS",
+      "ANIMATION_FLICK_TAIL"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderGazelle.java",
+        "models": [
+          "ModelGazelle"
+        ],
+        "texture_literals": [
+          "textures/entity/gazelle.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelGeladaMonkey",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelGeladaMonkey.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 11,
+    "cube_count": 13,
+    "zero_thickness_count": 1,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_CHEST",
+      "ANIMATION_GROOM",
+      "ANIMATION_SWIPE_L",
+      "ANIMATION_SWIPE_R"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderGeladaMonkey.java",
+        "models": [
+          "ModelGeladaMonkey"
+        ],
+        "texture_literals": [
+          "textures/entity/gelada_monkey.png",
+          "textures/entity/gelada_monkey_angry.png",
+          "textures/entity/gelada_monkey_leader.png",
+          "textures/entity/gelada_monkey_leader_angry.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelGiantSquid",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelGiantSquid.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 39,
+    "cube_count": 36,
+    "zero_thickness_count": 4,
+    "mirrored_cube_count": 16,
+    "declared_addbox_count": 36,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderGiantSquid.java",
+        "models": [
+          "ModelGiantSquid"
+        ],
+        "texture_literals": [
+          "textures/entity/giant_squid.png",
+          "textures/entity/giant_squid_blue.png",
+          "textures/entity/giant_squid_depressurized.png"
+        ],
+        "layer_constructors": [
+          "LayerDepressurization"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelGorilla",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelGorilla.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 10,
+    "cube_count": 11,
+    "zero_thickness_count": 1,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 11,
+    "animation_helpers": [
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_ATTACK",
+      "ANIMATION_BREAKBLOCK_L",
+      "ANIMATION_BREAKBLOCK_R",
+      "ANIMATION_POUNDCHEST"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderGorilla.java",
+        "models": [
+          "ModelGorilla"
+        ],
+        "texture_literals": [
+          "textures/entity/gorilla.png",
+          "textures/entity/gorilla_dk.png",
+          "textures/entity/gorilla_funky.png",
+          "textures/entity/gorilla_silverback.png"
+        ],
+        "layer_constructors": [
+          "LayerGorillaItem"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelGrizzlyBear",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelGrizzlyBear.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 13,
+    "cube_count": 15,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 15,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_MAUL",
+      "ANIMATION_SNIFF",
+      "ANIMATION_SWIPE_L",
+      "ANIMATION_SWIPE_R"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderGrizzlyBear.java",
+        "models": [
+          "ModelGrizzlyBear"
+        ],
+        "texture_literals": [
+          "textures/entity/grizzly_bear.png",
+          "textures/entity/grizzly_bear_freddy.png",
+          "textures/entity/grizzly_bear_freddy_eyes.png",
+          "textures/entity/grizzly_bear_snowy.png"
+        ],
+        "layer_constructors": [
+          "LayerFreddyEyes",
+          "LayerGrizzlyHoney",
+          "LayerGrizzlyItem",
+          "LayerSnow"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelGuster",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelGuster.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 9,
+    "cube_count": 7,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 7,
+    "animation_helpers": [
+      "bob",
+      "chainFlap"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderGust.java",
+        "models": [
+          "ModelGuster"
+        ],
+        "texture_literals": [
+          "textures/entity/guster.png"
+        ],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderGuster.java",
+        "models": [
+          "ModelGuster"
+        ],
+        "texture_literals": [
+          "textures/entity/guster.png",
+          "textures/entity/guster_eye.png",
+          "textures/entity/guster_eye_soul.png",
+          "textures/entity/guster_red.png",
+          "textures/entity/guster_silly.png",
+          "textures/entity/guster_soul.png"
+        ],
+        "layer_constructors": [
+          "GusterEyesLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelHammerheadShark",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelHammerheadShark.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 15,
+    "cube_count": 13,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "bob",
+      "chainSwing",
+      "flap",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderHammerheadShark.java",
+        "models": [
+          "ModelHammerheadShark"
+        ],
+        "texture_literals": [
+          "textures/entity/hammerhead_shark.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelHummingbird",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelHummingbird.java",
+    "texture_size": [
+      32,
+      32
+    ],
+    "constructor_parameters": "",
+    "part_count": 10,
+    "cube_count": 8,
+    "zero_thickness_count": 1,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 8,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderHummingbird.java",
+        "models": [
+          "ModelHummingbird"
+        ],
+        "texture_literals": [
+          "textures/entity/hummingbird_0.png",
+          "textures/entity/hummingbird_1.png",
+          "textures/entity/hummingbird_2.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelJerboa",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelJerboa.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 9,
+    "cube_count": 8,
+    "zero_thickness_count": 5,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 8,
+    "animation_helpers": [
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderJerboa.java",
+        "models": [
+          "ModelJerboa"
+        ],
+        "texture_literals": [
+          "textures/entity/jerboa.png",
+          "textures/entity/jerboa_sleeping.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelKangaroo",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelKangaroo.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 19,
+    "cube_count": 18,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 5,
+    "declared_addbox_count": 18,
+    "animation_helpers": [
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_EAT_GRASS",
+      "ANIMATION_KICK",
+      "ANIMATION_PUNCH_L",
+      "ANIMATION_PUNCH_R"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderKangaroo.java",
+        "models": [
+          "ModelKangaroo"
+        ],
+        "texture_literals": [
+          "textures/entity/kangaroo.png"
+        ],
+        "layer_constructors": [
+          "LayerKangarooArmor",
+          "LayerKangarooBaby",
+          "LayerKangarooItem"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelKomodoDragon",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelKomodoDragon.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "float scale",
+    "part_count": 15,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 14,
+    "animation_helpers": [
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: float scale",
+      "Nonliteral argument: scale at line 51",
+      "Nonliteral argument: scale at line 55",
+      "Nonliteral argument: scale at line 59",
+      "Nonliteral argument: scale at line 63",
+      "Nonliteral argument: scale at line 67",
+      "Nonliteral argument: scale at line 71",
+      "Nonliteral argument: scale at line 78",
+      "Nonliteral argument: scale at line 79",
+      "Nonliteral argument: scale at line 86",
+      "Nonliteral argument: scale at line 87",
+      "Nonliteral argument: scale at line 94",
+      "Nonliteral argument: scale at line 95",
+      "Nonliteral argument: scale at line 102",
+      "Nonliteral argument: scale at line 103",
+      "Indexed 0 of 14 constructor addBox calls."
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderKomodoDragon.java",
+        "models": [
+          "ModelKomodoDragon"
+        ],
+        "texture_literals": [
+          "textures/entity/komodo_dragon.png",
+          "textures/entity/komodo_dragon_maid.png",
+          "textures/entity/komodo_dragon_saddle.png"
+        ],
+        "layer_constructors": [
+          "LayerSaddle"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelLaviathan",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelLaviathan.java",
+    "texture_size": [
+      256,
+      256
+    ],
+    "constructor_parameters": "",
+    "part_count": 17,
+    "cube_count": 34,
+    "zero_thickness_count": 4,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 34,
+    "animation_helpers": [
+      "bob",
+      "chainSwing",
+      "chainWave",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderLaviathan.java",
+        "models": [
+          "ModelLaviathan"
+        ],
+        "texture_literals": [
+          "textures/entity/laviathan.png",
+          "textures/entity/laviathan_gear.png",
+          "textures/entity/laviathan_glow.png",
+          "textures/entity/laviathan_helmet.png",
+          "textures/entity/laviathan_obsidian.png"
+        ],
+        "layer_constructors": [
+          "LayerOverlays"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelLeafcutterAnt",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelLeafcutterAnt.java",
+    "texture_size": [
+      32,
+      32
+    ],
+    "constructor_parameters": "",
+    "part_count": 15,
+    "cube_count": 13,
+    "zero_thickness_count": 9,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_BITE"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/layer/LayerAnteaterTongueItem.java",
+        "models": [
+          "ModelLeafcutterAnt"
+        ],
+        "texture_literals": [
+          "textures/entity/leafcutter_ant.png"
+        ],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderLeafcutterAnt.java",
+        "models": [
+          "ModelLeafcutterAnt",
+          "ModelLeafcutterAntQueen"
+        ],
+        "texture_literals": [
+          "textures/entity/leafcutter_ant.png",
+          "textures/entity/leafcutter_ant_angry.png",
+          "textures/entity/leafcutter_ant_queen.png",
+          "textures/entity/leafcutter_ant_queen_angry.png"
+        ],
+        "layer_constructors": [
+          "LayerLeafcutterAntLeaf"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelLeafcutterAntQueen",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelLeafcutterAntQueen.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 13,
+    "cube_count": 12,
+    "zero_thickness_count": 8,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 12,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_BITE"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderLeafcutterAnt.java",
+        "models": [
+          "ModelLeafcutterAnt",
+          "ModelLeafcutterAntQueen"
+        ],
+        "texture_literals": [
+          "textures/entity/leafcutter_ant.png",
+          "textures/entity/leafcutter_ant_angry.png",
+          "textures/entity/leafcutter_ant_queen.png",
+          "textures/entity/leafcutter_ant_queen_angry.png"
+        ],
+        "layer_constructors": [
+          "LayerLeafcutterAntLeaf"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelLobster",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelLobster.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 12,
+    "cube_count": 11,
+    "zero_thickness_count": 7,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 11,
+    "animation_helpers": [
+      "bob",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderLobster.java",
+        "models": [
+          "ModelLobster"
+        ],
+        "texture_literals": [
+          "textures/entity/lobster_black.png",
+          "textures/entity/lobster_blue.png",
+          "textures/entity/lobster_red.png",
+          "textures/entity/lobster_redblue.png",
+          "textures/entity/lobster_white.png",
+          "textures/entity/lobster_yellow.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelManedWolf",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelManedWolf.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 14,
+    "cube_count": 13,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderManedWolf.java",
+        "models": [
+          "ModelManedWolf"
+        ],
+        "texture_literals": [
+          "textures/entity/maned_wolf.png",
+          "textures/entity/maned_wolf_ender.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelMantisShrimp",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelMantisShrimp.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 16,
+    "cube_count": 15,
+    "zero_thickness_count": 4,
+    "mirrored_cube_count": 5,
+    "declared_addbox_count": 15,
+    "animation_helpers": [
+      "bob",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderMantisShrimp.java",
+        "models": [
+          "ModelMantisShrimp"
+        ],
+        "texture_literals": [
+          "textures/entity/mantis_shrimp_0.png",
+          "textures/entity/mantis_shrimp_1.png",
+          "textures/entity/mantis_shrimp_2.png",
+          "textures/entity/mantis_shrimp_3.png"
+        ],
+        "layer_constructors": [
+          "LayerMantisShrimpItem"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelMimicOctopus",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelMimicOctopus.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 19,
+    "cube_count": 22,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 10,
+    "declared_addbox_count": 22,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderMimicOctopus.java",
+        "models": [
+          "ModelMimicOctopus"
+        ],
+        "texture_literals": [
+          "textures/entity/mimic_octopus.png",
+          "textures/entity/mimic_octopus_creeper.png",
+          "textures/entity/mimic_octopus_eyes.png",
+          "textures/entity/mimic_octopus_guardian.png",
+          "textures/entity/mimic_octopus_mimicube.png",
+          "textures/entity/mimic_octopus_overlay.png",
+          "textures/entity/mimic_octopus_pufferfish.png"
+        ],
+        "layer_constructors": [
+          "OverlayLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelMimicube",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelMimicube.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 6,
+    "cube_count": 5,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 5,
+    "animation_helpers": [
+      "bob",
+      "flap"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderMimicube.java",
+        "models": [
+          "ModelMimicube"
+        ],
+        "texture_literals": [
+          "textures/entity/mimicube.png"
+        ],
+        "layer_constructors": [
+          "LayerMimicubeHeldItem",
+          "LayerMimicubeHelmet",
+          "LayerMimicubeTexture"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelMoose",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelMoose.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 12,
+    "cube_count": 13,
+    "zero_thickness_count": 1,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_ATTACK",
+      "ANIMATION_EAT_GRASS"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderMoose.java",
+        "models": [
+          "ModelMoose"
+        ],
+        "texture_literals": [
+          "textures/entity/moose.png",
+          "textures/entity/moose_antlered.png",
+          "textures/entity/moose_snowy.png",
+          "textures/entity/moose_snowy_antlered.png"
+        ],
+        "layer_constructors": [
+          "LayerSnow"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelMudskipper",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelMudskipper.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 8,
+    "cube_count": 8,
+    "zero_thickness_count": 5,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 8,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderMudskipper.java",
+        "models": [
+          "ModelMudskipper"
+        ],
+        "texture_literals": [
+          "textures/entity/mudskipper.png",
+          "textures/entity/mudskipper_spit.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelMungus",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelMungus.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "float f",
+    "part_count": 8,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 7,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: float f",
+      "Nonliteral argument: f at line 54",
+      "Nonliteral argument: f at line 58",
+      "Nonliteral argument: f at line 62",
+      "Nonliteral argument: f at line 66",
+      "Nonliteral argument: f at line 70",
+      "Nonliteral argument: f at line 74",
+      "Nonliteral argument: f at line 78",
+      "Indexed 0 of 7 constructor addBox calls."
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderMungus.java",
+        "models": [
+          "ModelMungus"
+        ],
+        "texture_literals": [
+          "textures/entity/mungus.png",
+          "textures/entity/mungus_beam.png",
+          "textures/entity/mungus_beam_overlay.png",
+          "textures/entity/mungus_sack.png",
+          "textures/entity/mungus_shoes.png"
+        ],
+        "layer_constructors": [
+          "MungusMushroomLayer",
+          "MungusSackLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelMurmurBody",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelMurmurBody.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 3,
+    "cube_count": 3,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 3,
+    "animation_helpers": [
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderMurmurBody.java",
+        "models": [
+          "ModelMurmurBody",
+          "ModelMurmurHead",
+          "ModelMurmurNeck"
+        ],
+        "texture_literals": [
+          "textures/entity/murmur.png",
+          "textures/entity/murmur_angry.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelMurmurHead",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelMurmurHead.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 5,
+    "cube_count": 5,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 5,
+    "animation_helpers": [
+      "faceTarget",
+      "flap",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderMurmurBody.java",
+        "models": [
+          "ModelMurmurBody",
+          "ModelMurmurHead",
+          "ModelMurmurNeck"
+        ],
+        "texture_literals": [
+          "textures/entity/murmur.png",
+          "textures/entity/murmur_angry.png"
+        ],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderMurmurHead.java",
+        "models": [
+          "ModelMurmurHead",
+          "ModelMurmurNeck"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelMurmurNeck",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelMurmurNeck.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 3,
+    "cube_count": 1,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 1,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderMurmurBody.java",
+        "models": [
+          "ModelMurmurBody",
+          "ModelMurmurHead",
+          "ModelMurmurNeck"
+        ],
+        "texture_literals": [
+          "textures/entity/murmur.png",
+          "textures/entity/murmur_angry.png"
+        ],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderMurmurHead.java",
+        "models": [
+          "ModelMurmurHead",
+          "ModelMurmurNeck"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelMysteriousWorm",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelMysteriousWorm.java",
+    "texture_size": [
+      32,
+      32
+    ],
+    "constructor_parameters": "",
+    "part_count": 5,
+    "cube_count": 5,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 5,
+    "animation_helpers": [
+      "chainFlap",
+      "chainSwing",
+      "chainWave"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/AMItemstackRenderer.java",
+        "models": [
+          "ModelEndPirateAnchor",
+          "ModelEndPirateAnchorWinch",
+          "ModelEndPirateShipWheel",
+          "ModelMysteriousWorm",
+          "ModelShieldOfTheDeep",
+          "ModelTransmutationTable"
+        ],
+        "texture_literals": [
+          "textures/armor/shield_of_the_deep.png",
+          "textures/entity/end_pirate/anchor.png",
+          "textures/entity/end_pirate/anchor_winch.png",
+          "textures/entity/end_pirate/ship_wheel.png",
+          "textures/entity/farseer/transmutation_table.png",
+          "textures/entity/farseer/transmutation_table_glow.png",
+          "textures/entity/farseer/transmutation_table_overlay.png",
+          "textures/item/mysterious_worm_model.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelOrca",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelOrca.java",
+    "texture_size": [
+      256,
+      256
+    ],
+    "constructor_parameters": "",
+    "part_count": 10,
+    "cube_count": 11,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 11,
+    "animation_helpers": [
+      "bob",
+      "chainWave",
+      "flap",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_BITE",
+      "ANIMATION_TAILSWING"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderOrca.java",
+        "models": [
+          "ModelOrca"
+        ],
+        "texture_literals": [
+          "textures/entity/orca_ne.png",
+          "textures/entity/orca_nw.png",
+          "textures/entity/orca_se.png",
+          "textures/entity/orca_sw.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelPlatypus",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelPlatypus.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 10,
+    "cube_count": 10,
+    "zero_thickness_count": 1,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 10,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderPlatypus.java",
+        "models": [
+          "ModelPlatypus"
+        ],
+        "texture_literals": [
+          "textures/entity/platypus.png",
+          "textures/entity/platypus_fedora.png",
+          "textures/entity/platypus_perry.png"
+        ],
+        "layer_constructors": [
+          "FedoraLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelPollenBall",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelPollenBall.java",
+    "texture_size": [
+      8,
+      8
+    ],
+    "constructor_parameters": "",
+    "part_count": 1,
+    "cube_count": 1,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 1,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderPollenBall.java",
+        "models": [
+          "ModelPollenBall"
+        ],
+        "texture_literals": [
+          "textures/entity/pollen_ball.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelPotoo",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelPotoo.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 12,
+    "cube_count": 13,
+    "zero_thickness_count": 1,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderPotoo.java",
+        "models": [
+          "ModelPotoo"
+        ],
+        "texture_literals": [
+          "textures/entity/potoo.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelRaccoon",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelRaccoon.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 11,
+    "cube_count": 10,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 10,
+    "animation_helpers": [
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_ATTACK"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderRaccoon.java",
+        "models": [
+          "ModelRaccoon"
+        ],
+        "texture_literals": [
+          "textures/entity/raccoon.png",
+          "textures/entity/raccoon_bandana.png",
+          "textures/entity/raccoon_rigby.png"
+        ],
+        "layer_constructors": [
+          "BandanaLayer",
+          "LayerRaccoonEyes",
+          "LayerRaccoonItem"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelRainFrog",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelRainFrog.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 9,
+    "cube_count": 10,
+    "zero_thickness_count": 3,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 10,
+    "animation_helpers": [
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderRainFrog.java",
+        "models": [
+          "ModelRainFrog"
+        ],
+        "texture_literals": [
+          "textures/entity/rain_frog_0.png",
+          "textures/entity/rain_frog_1.png",
+          "textures/entity/rain_frog_2.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelRattlesnake",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelRattlesnake.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 7,
+    "cube_count": 7,
+    "zero_thickness_count": 1,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 7,
+    "animation_helpers": [
+      "chainSwing",
+      "faceTarget",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_BITE"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderRattlesnake.java",
+        "models": [
+          "ModelRattlesnake"
+        ],
+        "texture_literals": [
+          "textures/entity/rattlesnake.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelRhinoceros",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelRhinoceros.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 11,
+    "cube_count": 12,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 12,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_EAT_GRASS",
+      "ANIMATION_FLICK_EARS",
+      "ANIMATION_FLING",
+      "ANIMATION_SLASH"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderRhinoceros.java",
+        "models": [
+          "ModelRhinoceros"
+        ],
+        "texture_literals": [
+          "textures/entity/rhinoceros.png",
+          "textures/entity/rhinoceros_angry.png",
+          "textures/entity/rhinoceros_potion.png"
+        ],
+        "layer_constructors": [
+          "PotionLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelRoadrunner",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelRoadrunner.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 15,
+    "cube_count": 16,
+    "zero_thickness_count": 10,
+    "mirrored_cube_count": 5,
+    "declared_addbox_count": 16,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderRoadrunner.java",
+        "models": [
+          "ModelRoadrunner"
+        ],
+        "texture_literals": [
+          "textures/entity/roadrunner.png",
+          "textures/entity/roadrunner_meep.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelRockyChestplateRolling",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelRockyChestplateRolling.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 3,
+    "cube_count": 7,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 7,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Nonliteral argument: f at line 30",
+      "Nonliteral argument: 2.0f + f at line 35",
+      "Nonliteral argument: 1.0f + f at line 40"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": []
+  },
+  {
+    "model": "ModelRockyRoller",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelRockyRoller.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 14,
+    "cube_count": 19,
+    "zero_thickness_count": 10,
+    "mirrored_cube_count": 7,
+    "declared_addbox_count": 19,
+    "animation_helpers": [
+      "bob",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderRockyRoller.java",
+        "models": [
+          "ModelRockyRoller"
+        ],
+        "texture_literals": [
+          "textures/entity/rocky_roller.png",
+          "textures/entity/rocky_roller_angry.png",
+          "textures/entity/rocky_roller_rolling.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelSeaBear",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelSeaBear.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 11,
+    "cube_count": 15,
+    "zero_thickness_count": 6,
+    "mirrored_cube_count": 5,
+    "declared_addbox_count": 15,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_ATTACK",
+      "ANIMATION_POINT"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderSeaBear.java",
+        "models": [
+          "ModelSeaBear"
+        ],
+        "texture_literals": [
+          "textures/entity/sea_bear.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelSeagull",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelSeagull.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 13,
+    "cube_count": 10,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 10,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderSeagull.java",
+        "models": [
+          "ModelSeagull"
+        ],
+        "texture_literals": [
+          "textures/entity/seagull.png",
+          "textures/entity/seagull_wingull.png"
+        ],
+        "layer_constructors": [
+          "LayerHeldItem"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelSeal",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelSeal.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 10,
+    "cube_count": 12,
+    "zero_thickness_count": 4,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 12,
+    "animation_helpers": [
+      "bob",
+      "chainWave",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderSeal.java",
+        "models": [
+          "ModelSeal"
+        ],
+        "texture_literals": [
+          "textures/entity/seal/seal_arctic_0.png",
+          "textures/entity/seal/seal_arctic_1.png",
+          "textures/entity/seal/seal_arctic_baby.png",
+          "textures/entity/seal/seal_brown_0.png",
+          "textures/entity/seal/seal_brown_1.png",
+          "textures/entity/seal/seal_crying.png",
+          "textures/entity/seal/seal_tongue.png"
+        ],
+        "layer_constructors": [
+          "LayerSealItem",
+          "SealTearsLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelShieldOfTheDeep",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelShieldOfTheDeep.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 2,
+    "cube_count": 4,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 4,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/AMItemstackRenderer.java",
+        "models": [
+          "ModelEndPirateAnchor",
+          "ModelEndPirateAnchorWinch",
+          "ModelEndPirateShipWheel",
+          "ModelMysteriousWorm",
+          "ModelShieldOfTheDeep",
+          "ModelTransmutationTable"
+        ],
+        "texture_literals": [
+          "textures/armor/shield_of_the_deep.png",
+          "textures/entity/end_pirate/anchor.png",
+          "textures/entity/end_pirate/anchor_winch.png",
+          "textures/entity/end_pirate/ship_wheel.png",
+          "textures/entity/farseer/transmutation_table.png",
+          "textures/entity/farseer/transmutation_table_glow.png",
+          "textures/entity/farseer/transmutation_table_overlay.png",
+          "textures/item/mysterious_worm_model.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelShoebill",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelShoebill.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 18,
+    "cube_count": 17,
+    "zero_thickness_count": 9,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 17,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_ATTACK",
+      "ANIMATION_BEAKSHAKE",
+      "ANIMATION_FISH"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderShoebill.java",
+        "models": [
+          "ModelShoebill"
+        ],
+        "texture_literals": [
+          "textures/entity/shoebill.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelSkelewag",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelSkelewag.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 8,
+    "cube_count": 19,
+    "zero_thickness_count": 6,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 19,
+    "animation_helpers": [
+      "bob",
+      "chainSwing",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_SLASH",
+      "ANIMATION_STAB"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderSkelewag.java",
+        "models": [
+          "ModelSkelewag"
+        ],
+        "texture_literals": [
+          "textures/entity/skelewag_0.png",
+          "textures/entity/skelewag_1.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelSkreecher",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelSkreecher.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 16,
+    "cube_count": 13,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 5,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderSkreecher.java",
+        "models": [
+          "ModelSkreecher"
+        ],
+        "texture_literals": [
+          "textures/entity/skreecher.png",
+          "textures/entity/skreecher_glow.png"
+        ],
+        "layer_constructors": [
+          "LayerScorch"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelSkunk",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelSkunk.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 8,
+    "cube_count": 9,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 9,
+    "animation_helpers": [
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderSkunk.java",
+        "models": [
+          "ModelSkunk"
+        ],
+        "texture_literals": [
+          "textures/entity/skunk.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelSnowLeopard",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelSnowLeopard.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 13,
+    "cube_count": 15,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 15,
+    "animation_helpers": [
+      "bob",
+      "chainSwing",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_ATTACK_L",
+      "ANIMATION_ATTACK_R"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderSnowLeopard.java",
+        "models": [
+          "ModelSnowLeopard"
+        ],
+        "texture_literals": [
+          "textures/entity/snow_leopard.png",
+          "textures/entity/snow_leopard_sleeping.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelSoulVulture",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelSoulVulture.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 11,
+    "cube_count": 15,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 15,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderSoulVulture.java",
+        "models": [
+          "ModelSoulVulture"
+        ],
+        "texture_literals": [
+          "textures/entity/soul_vulture/soul_vulture.png"
+        ],
+        "layer_constructors": [
+          "LayerSoulVultureGlow"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelSpectre",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelSpectre.java",
+    "texture_size": [
+      256,
+      256
+    ],
+    "constructor_parameters": "",
+    "part_count": 8,
+    "cube_count": 5,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 5,
+    "animation_helpers": [
+      "flap",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderSpectre.java",
+        "models": [
+          "ModelSpectre"
+        ],
+        "texture_literals": [
+          "textures/entity/spectre.png",
+          "textures/entity/spectre_bone.png",
+          "textures/entity/spectre_glow.png",
+          "textures/entity/spectre_lead.png"
+        ],
+        "layer_constructors": [
+          "SpectreEyesLayer",
+          "SpectreMembraneLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelSquidGrapple",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelSquidGrapple.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 2,
+    "cube_count": 1,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 1,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderSquidGrapple.java",
+        "models": [
+          "ModelSquidGrapple"
+        ],
+        "texture_literals": [
+          "textures/entity/giant_squid.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelStraddleboard",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelStraddleboard.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 7,
+    "cube_count": 6,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 6,
+    "animation_helpers": [
+      "flap",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderStraddleboard.java",
+        "models": [
+          "ModelStraddleboard"
+        ],
+        "texture_literals": [
+          "textures/entity/straddleboard.png",
+          "textures/entity/straddleboard_overlay.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelStraddler",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelStraddler.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 9,
+    "cube_count": 8,
+    "zero_thickness_count": 3,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 8,
+    "animation_helpers": [
+      "flap",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_LAUNCH"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderStraddler.java",
+        "models": [
+          "ModelStraddler",
+          "ModelStradpole"
+        ],
+        "texture_literals": [
+          "textures/entity/straddler.png"
+        ],
+        "layer_constructors": [
+          "StradpoleLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelStradpole",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelStradpole.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 5,
+    "cube_count": 4,
+    "zero_thickness_count": 3,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 4,
+    "animation_helpers": [
+      "faceTarget",
+      "flap",
+      "swing"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderStraddler.java",
+        "models": [
+          "ModelStraddler",
+          "ModelStradpole"
+        ],
+        "texture_literals": [
+          "textures/entity/straddler.png"
+        ],
+        "layer_constructors": [
+          "StradpoleLayer"
+        ]
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderStradpole.java",
+        "models": [
+          "ModelStradpole"
+        ],
+        "texture_literals": [
+          "textures/entity/stradpole.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelSugarGlider",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelSugarGlider.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 10,
+    "cube_count": 10,
+    "zero_thickness_count": 4,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 10,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderSugarGlider.java",
+        "models": [
+          "ModelSugarGlider"
+        ],
+        "texture_literals": [
+          "textures/entity/sugar_glider.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelSunbird",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelSunbird.java",
+    "texture_size": [
+      256,
+      256
+    ],
+    "constructor_parameters": "",
+    "part_count": 17,
+    "cube_count": 18,
+    "zero_thickness_count": 7,
+    "mirrored_cube_count": 5,
+    "declared_addbox_count": 18,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderSunbird.java",
+        "models": [
+          "ModelSunbird"
+        ],
+        "texture_literals": [
+          "textures/entity/sunbird.png",
+          "textures/entity/sunbird_glow.png"
+        ],
+        "layer_constructors": [
+          "LayerScorch"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelTarantulaHawk",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelTarantulaHawk.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 17,
+    "cube_count": 16,
+    "zero_thickness_count": 11,
+    "mirrored_cube_count": 6,
+    "declared_addbox_count": 16,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderTarantulaHawk.java",
+        "models": [
+          "ModelTarantulaHawk",
+          "ModelTarantulaHawkBaby"
+        ],
+        "texture_literals": [
+          "textures/entity/tarantula_hawk.png",
+          "textures/entity/tarantula_hawk_angry.png",
+          "textures/entity/tarantula_hawk_baby.png",
+          "textures/entity/tarantula_hawk_nether.png",
+          "textures/entity/tarantula_hawk_nether_angry.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelTarantulaHawkBaby",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelTarantulaHawkBaby.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 3,
+    "cube_count": 2,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 2,
+    "animation_helpers": [
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderTarantulaHawk.java",
+        "models": [
+          "ModelTarantulaHawk",
+          "ModelTarantulaHawkBaby"
+        ],
+        "texture_literals": [
+          "textures/entity/tarantula_hawk.png",
+          "textures/entity/tarantula_hawk_angry.png",
+          "textures/entity/tarantula_hawk_baby.png",
+          "textures/entity/tarantula_hawk_nether.png",
+          "textures/entity/tarantula_hawk_nether_angry.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelTasmanianDevil",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelTasmanianDevil.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 10,
+    "cube_count": 10,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 10,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_ATTACK",
+      "ANIMATION_HOWL"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderTasmanianDevil.java",
+        "models": [
+          "ModelTasmanianDevil"
+        ],
+        "texture_literals": [
+          "textures/entity/tasmanian_devil.png",
+          "textures/entity/tasmanian_devil_angry.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelTendonClaw",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelTendonClaw.java",
+    "texture_size": [
+      16,
+      16
+    ],
+    "constructor_parameters": "",
+    "part_count": 4,
+    "cube_count": 3,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 1,
+    "declared_addbox_count": 3,
+    "animation_helpers": [
+      "progressRotationPrev"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderTendonSegment.java",
+        "models": [
+          "ModelTendonClaw"
+        ],
+        "texture_literals": [
+          "textures/entity/tendon_whip_claw.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelTerrapin",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelTerrapin.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 13,
+    "cube_count": 12,
+    "zero_thickness_count": 4,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 12,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderTerrapin.java",
+        "models": [
+          "ModelTerrapin"
+        ],
+        "texture_literals": [
+          "textures/entity/terrapin/overlay/terrapin_shell_pattern_0.png",
+          "textures/entity/terrapin/overlay/terrapin_shell_pattern_1.png",
+          "textures/entity/terrapin/overlay/terrapin_shell_pattern_2.png",
+          "textures/entity/terrapin/overlay/terrapin_shell_pattern_3.png",
+          "textures/entity/terrapin/overlay/terrapin_shell_pattern_4.png",
+          "textures/entity/terrapin/overlay/terrapin_shell_pattern_5.png",
+          "textures/entity/terrapin/overlay/terrapin_skin_pattern_0.png",
+          "textures/entity/terrapin/overlay/terrapin_skin_pattern_1.png",
+          "textures/entity/terrapin/overlay/terrapin_skin_pattern_2.png",
+          "textures/entity/terrapin/overlay/terrapin_skin_pattern_3.png"
+        ],
+        "layer_constructors": [
+          "TurtleOverlayLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelTiger",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelTiger.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 12,
+    "cube_count": 13,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 13,
+    "animation_helpers": [
+      "bob",
+      "chainFlap",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_LEAP",
+      "ANIMATION_PAW_L",
+      "ANIMATION_PAW_R",
+      "ANIMATION_TAIL_FLICK"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderTiger.java",
+        "models": [
+          "ModelTiger"
+        ],
+        "texture_literals": [
+          "textures/entity/tiger/tiger.png",
+          "textures/entity/tiger/tiger_angry.png",
+          "textures/entity/tiger/tiger_sleeping.png",
+          "textures/entity/tiger/tiger_white.png",
+          "textures/entity/tiger/tiger_white_angry.png",
+          "textures/entity/tiger/tiger_white_sleeping.png"
+        ],
+        "layer_constructors": [
+          "LayerTigerEyes"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelToucan",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelToucan.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 11,
+    "cube_count": 10,
+    "zero_thickness_count": 2,
+    "mirrored_cube_count": 3,
+    "declared_addbox_count": 10,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderToucan.java",
+        "models": [
+          "ModelToucan"
+        ],
+        "texture_literals": [
+          "textures/entity/toucan/toucan_0.png",
+          "textures/entity/toucan/toucan_1.png",
+          "textures/entity/toucan/toucan_2.png",
+          "textures/entity/toucan/toucan_3.png",
+          "textures/entity/toucan/toucan_gold.png",
+          "textures/entity/toucan/toucan_sam.png"
+        ],
+        "layer_constructors": [
+          "LayerGlint",
+          "LayerHeldItem"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelTransmutationTable",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelTransmutationTable.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "float scale",
+    "part_count": 9,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 11,
+    "animation_helpers": [
+      "bob",
+      "flap"
+    ],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: float scale",
+      "Nonliteral argument: scale at line 37",
+      "Nonliteral argument: scale at line 41",
+      "Nonliteral argument: scale at line 45",
+      "Nonliteral argument: scale at line 50",
+      "Nonliteral argument: scale - 0.1f at line 55",
+      "Nonliteral argument: scale at line 60",
+      "Nonliteral argument: scale at line 61",
+      "Nonliteral argument: scale at line 66",
+      "Nonliteral argument: scale - 0.1f at line 71",
+      "Nonliteral argument: scale at line 76",
+      "Nonliteral argument: scale at line 77",
+      "Indexed 0 of 11 constructor addBox calls."
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/AMItemstackRenderer.java",
+        "models": [
+          "ModelEndPirateAnchor",
+          "ModelEndPirateAnchorWinch",
+          "ModelEndPirateShipWheel",
+          "ModelMysteriousWorm",
+          "ModelShieldOfTheDeep",
+          "ModelTransmutationTable"
+        ],
+        "texture_literals": [
+          "textures/armor/shield_of_the_deep.png",
+          "textures/entity/end_pirate/anchor.png",
+          "textures/entity/end_pirate/anchor_winch.png",
+          "textures/entity/end_pirate/ship_wheel.png",
+          "textures/entity/farseer/transmutation_table.png",
+          "textures/entity/farseer/transmutation_table_glow.png",
+          "textures/entity/farseer/transmutation_table_overlay.png",
+          "textures/item/mysterious_worm_model.png"
+        ],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/tile/RenderTransmutationTable.java",
+        "models": [
+          "ModelTransmutationTable"
+        ],
+        "texture_literals": [
+          "textures/entity/farseer/transmutation_table.png",
+          "textures/entity/farseer/transmutation_table_glow.png",
+          "textures/entity/farseer/transmutation_table_overlay.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelTriops",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelTriops.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 10,
+    "cube_count": 11,
+    "zero_thickness_count": 6,
+    "mirrored_cube_count": 4,
+    "declared_addbox_count": 11,
+    "animation_helpers": [
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderTriops.java",
+        "models": [
+          "ModelTriops"
+        ],
+        "texture_literals": [
+          "textures/entity/triops.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelTusklin",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelTusklin.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 14,
+    "cube_count": 16,
+    "zero_thickness_count": 3,
+    "mirrored_cube_count": 5,
+    "declared_addbox_count": 16,
+    "animation_helpers": [
+      "bob",
+      "faceTarget",
+      "flap",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_BUCK",
+      "ANIMATION_FLING",
+      "ANIMATION_GORE_L",
+      "ANIMATION_GORE_R",
+      "ANIMATION_RUT"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderTusklin.java",
+        "models": [
+          "ModelTusklin"
+        ],
+        "texture_literals": [
+          "textures/entity/tusklin.png"
+        ],
+        "layer_constructors": [
+          "LayerTusklinGear"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelUnderminerDwarf",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelUnderminerDwarf.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 8,
+    "cube_count": 9,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 2,
+    "declared_addbox_count": 9,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderUnderminer.java",
+        "models": [
+          "ModelUnderminerDwarf"
+        ],
+        "texture_literals": [
+          "textures/block/ghostly_pickaxe/destroy_stage_",
+          "textures/entity/underminer_0.png",
+          "textures/entity/underminer_1.png",
+          "textures/entity/underminer_dwarf.png"
+        ],
+        "layer_constructors": [
+          "LayerUnderminerItem"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelVoidWorm",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelVoidWorm.java",
+    "texture_size": [
+      256,
+      256
+    ],
+    "constructor_parameters": "float f",
+    "part_count": 11,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 12,
+    "animation_helpers": [
+      "progressPositionPrev",
+      "progressRotationPrev"
+    ],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: float f",
+      "Nonliteral argument: f at line 43",
+      "Nonliteral argument: f at line 48",
+      "Nonliteral argument: f at line 53",
+      "Nonliteral argument: f at line 58",
+      "Nonliteral argument: f at line 63",
+      "Nonliteral argument: f at line 67",
+      "Nonliteral argument: f at line 68",
+      "Nonliteral argument: f at line 69",
+      "Nonliteral argument: f at line 74",
+      "Nonliteral argument: f at line 79",
+      "Nonliteral argument: f at line 83",
+      "Nonliteral argument: f - 0.1f at line 87",
+      "Indexed 0 of 12 constructor addBox calls."
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderVoidWormHead.java",
+        "models": [
+          "ModelVoidWorm"
+        ],
+        "texture_literals": [
+          "textures/entity/void_worm/void_worm_head.png",
+          "textures/entity/void_worm/void_worm_head_glow.png"
+        ],
+        "layer_constructors": [
+          "LayerVoidWormGlow"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelVoidWormBeak",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelVoidWormBeak.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 3,
+    "cube_count": 2,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 2,
+    "animation_helpers": [
+      "flap"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/tile/RenderVoidWormBeak.java",
+        "models": [
+          "ModelVoidWormBeak"
+        ],
+        "texture_literals": [
+          "textures/entity/void_worm/void_worm_beak.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelVoidWormBody",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelVoidWormBody.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "float f",
+    "part_count": 10,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 5,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: float f",
+      "Nonliteral argument: f at line 39",
+      "Nonliteral argument: f at line 47",
+      "Nonliteral argument: f at line 55",
+      "Nonliteral argument: f at line 64",
+      "Nonliteral argument: f at line 73",
+      "Indexed 0 of 5 constructor addBox calls."
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/layer/LayerVoidWormGlow.java",
+        "models": [
+          "ModelVoidWormBody",
+          "ModelVoidWormTail"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderVoidWormBody.java",
+        "models": [
+          "ModelVoidWormBody",
+          "ModelVoidWormTail"
+        ],
+        "texture_literals": [
+          "textures/entity/void_worm/void_worm_body.png",
+          "textures/entity/void_worm/void_worm_body_glow.png",
+          "textures/entity/void_worm/void_worm_body_hurt.png",
+          "textures/entity/void_worm/void_worm_tail.png",
+          "textures/entity/void_worm/void_worm_tail_glow.png",
+          "textures/entity/void_worm/void_worm_tail_hurt.png"
+        ],
+        "layer_constructors": [
+          "LayerVoidWormGlow"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelVoidWormShot",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelVoidWormShot.java",
+    "texture_size": [
+      64,
+      64
+    ],
+    "constructor_parameters": "",
+    "part_count": 3,
+    "cube_count": 2,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 2,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderVoidWormShot.java",
+        "models": [
+          "ModelVoidWormShot"
+        ],
+        "texture_literals": [
+          "textures/entity/void_worm/void_worm_shot.png"
+        ],
+        "layer_constructors": []
+      }
+    ]
+  },
+  {
+    "model": "ModelVoidWormTail",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelVoidWormTail.java",
+    "texture_size": [
+      256,
+      256
+    ],
+    "constructor_parameters": "float f",
+    "part_count": 6,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 5,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: float f",
+      "Nonliteral argument: f at line 35",
+      "Nonliteral argument: f at line 40",
+      "Nonliteral argument: f at line 45",
+      "Nonliteral argument: f at line 50",
+      "Nonliteral argument: f at line 55",
+      "Indexed 0 of 5 constructor addBox calls."
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/layer/LayerVoidWormGlow.java",
+        "models": [
+          "ModelVoidWormBody",
+          "ModelVoidWormTail"
+        ],
+        "texture_literals": [],
+        "layer_constructors": []
+      },
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderVoidWormBody.java",
+        "models": [
+          "ModelVoidWormBody",
+          "ModelVoidWormTail"
+        ],
+        "texture_literals": [
+          "textures/entity/void_worm/void_worm_body.png",
+          "textures/entity/void_worm/void_worm_body_glow.png",
+          "textures/entity/void_worm/void_worm_body_hurt.png",
+          "textures/entity/void_worm/void_worm_tail.png",
+          "textures/entity/void_worm/void_worm_tail_glow.png",
+          "textures/entity/void_worm/void_worm_tail_hurt.png"
+        ],
+        "layer_constructors": [
+          "LayerVoidWormGlow"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelWanderingVillagerRider",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelWanderingVillagerRider.java",
+    "texture_size": [
+      null,
+      null
+    ],
+    "constructor_parameters": "ModelPart part",
+    "part_count": 0,
+    "cube_count": 0,
+    "zero_thickness_count": 0,
+    "mirrored_cube_count": 0,
+    "declared_addbox_count": 0,
+    "animation_helpers": [],
+    "keyframe_animations": [],
+    "warnings": [
+      "Constructor parameters require renderer inspection: ModelPart part"
+    ],
+    "preview_eligible": false,
+    "renderer_candidates": []
+  },
+  {
+    "model": "ModelWarpedMosco",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelWarpedMosco.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 31,
+    "cube_count": 27,
+    "zero_thickness_count": 8,
+    "mirrored_cube_count": 11,
+    "declared_addbox_count": 27,
+    "animation_helpers": [
+      "bob",
+      "flap",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [
+      "ANIMATION_PUNCH_L",
+      "ANIMATION_PUNCH_R",
+      "ANIMATION_SLAM",
+      "ANIMATION_SPIT",
+      "ANIMATION_SUCK"
+    ],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderWarpedMosco.java",
+        "models": [
+          "ModelWarpedMosco"
+        ],
+        "texture_literals": [
+          "textures/entity/warped_mosco.png",
+          "textures/entity/warped_mosco_glow.png"
+        ],
+        "layer_constructors": [
+          "WarpedMoscoGlowLayer"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ModelWarpedToad",
+    "source": "com/github/alexthe666/alexsmobs/client/model/ModelWarpedToad.java",
+    "texture_size": [
+      128,
+      128
+    ],
+    "constructor_parameters": "",
+    "part_count": 17,
+    "cube_count": 21,
+    "zero_thickness_count": 5,
+    "mirrored_cube_count": 7,
+    "declared_addbox_count": 21,
+    "animation_helpers": [
+      "flap",
+      "progressPositionPrev",
+      "progressRotationPrev",
+      "swing",
+      "walk"
+    ],
+    "keyframe_animations": [],
+    "warnings": [],
+    "preview_eligible": true,
+    "renderer_candidates": [
+      {
+        "source": "com/github/alexthe666/alexsmobs/client/render/RenderWarpedToad.java",
+        "models": [
+          "ModelWarpedToad"
+        ],
+        "texture_literals": [
+          "textures/entity/warped_toad.png",
+          "textures/entity/warped_toad_blink.png",
+          "textures/entity/warped_toad_pepe.png",
+          "textures/entity/warped_toad_pepe_blink.png"
+        ],
+        "layer_constructors": [
+          "LayerWarpedToadGlow"
+        ]
+      }
+    ]
+  }
+]

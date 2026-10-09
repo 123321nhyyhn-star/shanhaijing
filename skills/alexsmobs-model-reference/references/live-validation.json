@@ -1,0 +1,20 @@
+{
+  "model": "ModelGorilla",
+  "blockbench_version": "5.2.2",
+  "live_project": "e8be1595-fd53-b445-d9ae-511fed3bb75a",
+  "live_inspection_date": "2026-10-09",
+  "checks_passed": 21,
+  "checks": "All 10 bone origins/rotations and 11 cubes' bounds, UV offsets, mirror flags and inflate matched reconstructed source data.",
+  "views": [
+    "front",
+    "side",
+    "three-quarter"
+  ],
+  "uv_inspected": [
+    "chest_0",
+    "rightArm_0"
+  ],
+  "source_jar_sha256": "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c",
+  "original_project_restored": "a77621b6-8d4f-627c-be44-2abdf6d3bc7a",
+  "limits": "Constructor reference only; not an animated game model. This verifies the helper, not a new creature design."
+}

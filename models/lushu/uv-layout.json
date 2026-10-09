@@ -1,0 +1,1178 @@
+[
+  {
+    "kind": "body",
+    "face": "north",
+    "uv": [
+      1,
+      1,
+      11,
+      11
+    ],
+    "size": [
+      10,
+      10
+    ]
+  },
+  {
+    "kind": "body",
+    "face": "south",
+    "uv": [
+      12,
+      1,
+      22,
+      11
+    ],
+    "size": [
+      10,
+      10
+    ]
+  },
+  {
+    "kind": "body",
+    "face": "east",
+    "uv": [
+      23,
+      1,
+      45,
+      11
+    ],
+    "size": [
+      22,
+      10
+    ]
+  },
+  {
+    "kind": "body",
+    "face": "west",
+    "uv": [
+      46,
+      1,
+      68,
+      11
+    ],
+    "size": [
+      22,
+      10
+    ]
+  },
+  {
+    "kind": "body",
+    "face": "up",
+    "uv": [
+      69,
+      1,
+      79,
+      23
+    ],
+    "size": [
+      10,
+      22
+    ]
+  },
+  {
+    "kind": "body",
+    "face": "down",
+    "uv": [
+      80,
+      1,
+      90,
+      23
+    ],
+    "size": [
+      10,
+      22
+    ]
+  },
+  {
+    "kind": "chest",
+    "face": "north",
+    "uv": [
+      91,
+      1,
+      99,
+      12
+    ],
+    "size": [
+      8,
+      11
+    ]
+  },
+  {
+    "kind": "chest",
+    "face": "south",
+    "uv": [
+      100,
+      1,
+      108,
+      12
+    ],
+    "size": [
+      8,
+      11
+    ]
+  },
+  {
+    "kind": "chest",
+    "face": "east",
+    "uv": [
+      109,
+      1,
+      116,
+      12
+    ],
+    "size": [
+      7,
+      11
+    ]
+  },
+  {
+    "kind": "chest",
+    "face": "west",
+    "uv": [
+      117,
+      1,
+      124,
+      12
+    ],
+    "size": [
+      7,
+      11
+    ]
+  },
+  {
+    "kind": "chest",
+    "face": "up",
+    "uv": [
+      1,
+      24,
+      9,
+      31
+    ],
+    "size": [
+      8,
+      7
+    ]
+  },
+  {
+    "kind": "chest",
+    "face": "down",
+    "uv": [
+      10,
+      24,
+      18,
+      31
+    ],
+    "size": [
+      8,
+      7
+    ]
+  },
+  {
+    "kind": "neck",
+    "face": "north",
+    "uv": [
+      19,
+      24,
+      25,
+      36
+    ],
+    "size": [
+      6,
+      12
+    ]
+  },
+  {
+    "kind": "neck",
+    "face": "south",
+    "uv": [
+      26,
+      24,
+      32,
+      36
+    ],
+    "size": [
+      6,
+      12
+    ]
+  },
+  {
+    "kind": "neck",
+    "face": "east",
+    "uv": [
+      33,
+      24,
+      40,
+      36
+    ],
+    "size": [
+      7,
+      12
+    ]
+  },
+  {
+    "kind": "neck",
+    "face": "west",
+    "uv": [
+      41,
+      24,
+      48,
+      36
+    ],
+    "size": [
+      7,
+      12
+    ]
+  },
+  {
+    "kind": "neck",
+    "face": "up",
+    "uv": [
+      49,
+      24,
+      55,
+      31
+    ],
+    "size": [
+      6,
+      7
+    ]
+  },
+  {
+    "kind": "neck",
+    "face": "down",
+    "uv": [
+      56,
+      24,
+      62,
+      31
+    ],
+    "size": [
+      6,
+      7
+    ]
+  },
+  {
+    "kind": "mane",
+    "face": "north",
+    "uv": [
+      63,
+      24,
+      64,
+      36
+    ],
+    "size": [
+      1,
+      12
+    ]
+  },
+  {
+    "kind": "mane",
+    "face": "south",
+    "uv": [
+      65,
+      24,
+      66,
+      36
+    ],
+    "size": [
+      1,
+      12
+    ]
+  },
+  {
+    "kind": "mane",
+    "face": "east",
+    "uv": [
+      67,
+      24,
+      69,
+      36
+    ],
+    "size": [
+      2,
+      12
+    ]
+  },
+  {
+    "kind": "mane",
+    "face": "west",
+    "uv": [
+      70,
+      24,
+      72,
+      36
+    ],
+    "size": [
+      2,
+      12
+    ]
+  },
+  {
+    "kind": "mane",
+    "face": "up",
+    "uv": [
+      73,
+      24,
+      74,
+      26
+    ],
+    "size": [
+      1,
+      2
+    ]
+  },
+  {
+    "kind": "mane",
+    "face": "down",
+    "uv": [
+      75,
+      24,
+      76,
+      26
+    ],
+    "size": [
+      1,
+      2
+    ]
+  },
+  {
+    "kind": "head",
+    "face": "north",
+    "uv": [
+      77,
+      24,
+      82,
+      31
+    ],
+    "size": [
+      5,
+      7
+    ]
+  },
+  {
+    "kind": "head",
+    "face": "south",
+    "uv": [
+      83,
+      24,
+      88,
+      31
+    ],
+    "size": [
+      5,
+      7
+    ]
+  },
+  {
+    "kind": "head",
+    "face": "east",
+    "uv": [
+      89,
+      24,
+      96,
+      31
+    ],
+    "size": [
+      7,
+      7
+    ]
+  },
+  {
+    "kind": "head",
+    "face": "west",
+    "uv": [
+      97,
+      24,
+      104,
+      31
+    ],
+    "size": [
+      7,
+      7
+    ]
+  },
+  {
+    "kind": "head",
+    "face": "up",
+    "uv": [
+      105,
+      24,
+      110,
+      31
+    ],
+    "size": [
+      5,
+      7
+    ]
+  },
+  {
+    "kind": "head",
+    "face": "down",
+    "uv": [
+      111,
+      24,
+      116,
+      31
+    ],
+    "size": [
+      5,
+      7
+    ]
+  },
+  {
+    "kind": "muzzle",
+    "face": "north",
+    "uv": [
+      117,
+      24,
+      121,
+      28
+    ],
+    "size": [
+      4,
+      4
+    ]
+  },
+  {
+    "kind": "muzzle",
+    "face": "south",
+    "uv": [
+      122,
+      24,
+      126,
+      28
+    ],
+    "size": [
+      4,
+      4
+    ]
+  },
+  {
+    "kind": "muzzle",
+    "face": "east",
+    "uv": [
+      1,
+      37,
+      7,
+      41
+    ],
+    "size": [
+      6,
+      4
+    ]
+  },
+  {
+    "kind": "muzzle",
+    "face": "west",
+    "uv": [
+      8,
+      37,
+      14,
+      41
+    ],
+    "size": [
+      6,
+      4
+    ]
+  },
+  {
+    "kind": "muzzle",
+    "face": "up",
+    "uv": [
+      15,
+      37,
+      19,
+      43
+    ],
+    "size": [
+      4,
+      6
+    ]
+  },
+  {
+    "kind": "muzzle",
+    "face": "down",
+    "uv": [
+      20,
+      37,
+      24,
+      43
+    ],
+    "size": [
+      4,
+      6
+    ]
+  },
+  {
+    "kind": "ear",
+    "face": "north",
+    "uv": [
+      25,
+      37,
+      27,
+      41
+    ],
+    "size": [
+      2,
+      4
+    ]
+  },
+  {
+    "kind": "ear",
+    "face": "south",
+    "uv": [
+      28,
+      37,
+      30,
+      41
+    ],
+    "size": [
+      2,
+      4
+    ]
+  },
+  {
+    "kind": "ear",
+    "face": "east",
+    "uv": [
+      31,
+      37,
+      33,
+      41
+    ],
+    "size": [
+      2,
+      4
+    ]
+  },
+  {
+    "kind": "ear",
+    "face": "west",
+    "uv": [
+      34,
+      37,
+      36,
+      41
+    ],
+    "size": [
+      2,
+      4
+    ]
+  },
+  {
+    "kind": "ear",
+    "face": "up",
+    "uv": [
+      37,
+      37,
+      39,
+      39
+    ],
+    "size": [
+      2,
+      2
+    ]
+  },
+  {
+    "kind": "ear",
+    "face": "down",
+    "uv": [
+      40,
+      37,
+      42,
+      39
+    ],
+    "size": [
+      2,
+      2
+    ]
+  },
+  {
+    "kind": "upper_front",
+    "face": "north",
+    "uv": [
+      43,
+      37,
+      46,
+      47
+    ],
+    "size": [
+      3,
+      10
+    ]
+  },
+  {
+    "kind": "upper_front",
+    "face": "south",
+    "uv": [
+      47,
+      37,
+      50,
+      47
+    ],
+    "size": [
+      3,
+      10
+    ]
+  },
+  {
+    "kind": "upper_front",
+    "face": "east",
+    "uv": [
+      51,
+      37,
+      55,
+      47
+    ],
+    "size": [
+      4,
+      10
+    ]
+  },
+  {
+    "kind": "upper_front",
+    "face": "west",
+    "uv": [
+      56,
+      37,
+      60,
+      47
+    ],
+    "size": [
+      4,
+      10
+    ]
+  },
+  {
+    "kind": "upper_front",
+    "face": "up",
+    "uv": [
+      61,
+      37,
+      64,
+      41
+    ],
+    "size": [
+      3,
+      4
+    ]
+  },
+  {
+    "kind": "upper_front",
+    "face": "down",
+    "uv": [
+      65,
+      37,
+      68,
+      41
+    ],
+    "size": [
+      3,
+      4
+    ]
+  },
+  {
+    "kind": "lower_front",
+    "face": "north",
+    "uv": [
+      69,
+      37,
+      72,
+      45
+    ],
+    "size": [
+      3,
+      8
+    ]
+  },
+  {
+    "kind": "lower_front",
+    "face": "south",
+    "uv": [
+      73,
+      37,
+      76,
+      45
+    ],
+    "size": [
+      3,
+      8
+    ]
+  },
+  {
+    "kind": "lower_front",
+    "face": "east",
+    "uv": [
+      77,
+      37,
+      80,
+      45
+    ],
+    "size": [
+      3,
+      8
+    ]
+  },
+  {
+    "kind": "lower_front",
+    "face": "west",
+    "uv": [
+      81,
+      37,
+      84,
+      45
+    ],
+    "size": [
+      3,
+      8
+    ]
+  },
+  {
+    "kind": "lower_front",
+    "face": "up",
+    "uv": [
+      85,
+      37,
+      88,
+      40
+    ],
+    "size": [
+      3,
+      3
+    ]
+  },
+  {
+    "kind": "lower_front",
+    "face": "down",
+    "uv": [
+      89,
+      37,
+      92,
+      40
+    ],
+    "size": [
+      3,
+      3
+    ]
+  },
+  {
+    "kind": "upper_hind",
+    "face": "north",
+    "uv": [
+      93,
+      37,
+      97,
+      47
+    ],
+    "size": [
+      4,
+      10
+    ]
+  },
+  {
+    "kind": "upper_hind",
+    "face": "south",
+    "uv": [
+      98,
+      37,
+      102,
+      47
+    ],
+    "size": [
+      4,
+      10
+    ]
+  },
+  {
+    "kind": "upper_hind",
+    "face": "east",
+    "uv": [
+      103,
+      37,
+      107,
+      47
+    ],
+    "size": [
+      4,
+      10
+    ]
+  },
+  {
+    "kind": "upper_hind",
+    "face": "west",
+    "uv": [
+      108,
+      37,
+      112,
+      47
+    ],
+    "size": [
+      4,
+      10
+    ]
+  },
+  {
+    "kind": "upper_hind",
+    "face": "up",
+    "uv": [
+      113,
+      37,
+      117,
+      41
+    ],
+    "size": [
+      4,
+      4
+    ]
+  },
+  {
+    "kind": "upper_hind",
+    "face": "down",
+    "uv": [
+      118,
+      37,
+      122,
+      41
+    ],
+    "size": [
+      4,
+      4
+    ]
+  },
+  {
+    "kind": "lower_hind",
+    "face": "north",
+    "uv": [
+      123,
+      37,
+      126,
+      45
+    ],
+    "size": [
+      3,
+      8
+    ]
+  },
+  {
+    "kind": "lower_hind",
+    "face": "south",
+    "uv": [
+      1,
+      48,
+      4,
+      56
+    ],
+    "size": [
+      3,
+      8
+    ]
+  },
+  {
+    "kind": "lower_hind",
+    "face": "east",
+    "uv": [
+      5,
+      48,
+      8,
+      56
+    ],
+    "size": [
+      3,
+      8
+    ]
+  },
+  {
+    "kind": "lower_hind",
+    "face": "west",
+    "uv": [
+      9,
+      48,
+      12,
+      56
+    ],
+    "size": [
+      3,
+      8
+    ]
+  },
+  {
+    "kind": "lower_hind",
+    "face": "up",
+    "uv": [
+      13,
+      48,
+      16,
+      51
+    ],
+    "size": [
+      3,
+      3
+    ]
+  },
+  {
+    "kind": "lower_hind",
+    "face": "down",
+    "uv": [
+      17,
+      48,
+      20,
+      51
+    ],
+    "size": [
+      3,
+      3
+    ]
+  },
+  {
+    "kind": "tail_base",
+    "face": "north",
+    "uv": [
+      21,
+      48,
+      23,
+      54
+    ],
+    "size": [
+      2,
+      6
+    ]
+  },
+  {
+    "kind": "tail_base",
+    "face": "south",
+    "uv": [
+      24,
+      48,
+      26,
+      54
+    ],
+    "size": [
+      2,
+      6
+    ]
+  },
+  {
+    "kind": "tail_base",
+    "face": "east",
+    "uv": [
+      27,
+      48,
+      29,
+      54
+    ],
+    "size": [
+      2,
+      6
+    ]
+  },
+  {
+    "kind": "tail_base",
+    "face": "west",
+    "uv": [
+      30,
+      48,
+      32,
+      54
+    ],
+    "size": [
+      2,
+      6
+    ]
+  },
+  {
+    "kind": "tail_base",
+    "face": "up",
+    "uv": [
+      33,
+      48,
+      35,
+      50
+    ],
+    "size": [
+      2,
+      2
+    ]
+  },
+  {
+    "kind": "tail_base",
+    "face": "down",
+    "uv": [
+      36,
+      48,
+      38,
+      50
+    ],
+    "size": [
+      2,
+      2
+    ]
+  },
+  {
+    "kind": "tail_mid",
+    "face": "north",
+    "uv": [
+      39,
+      48,
+      42,
+      55
+    ],
+    "size": [
+      3,
+      7
+    ]
+  },
+  {
+    "kind": "tail_mid",
+    "face": "south",
+    "uv": [
+      43,
+      48,
+      46,
+      55
+    ],
+    "size": [
+      3,
+      7
+    ]
+  },
+  {
+    "kind": "tail_mid",
+    "face": "east",
+    "uv": [
+      47,
+      48,
+      50,
+      55
+    ],
+    "size": [
+      3,
+      7
+    ]
+  },
+  {
+    "kind": "tail_mid",
+    "face": "west",
+    "uv": [
+      51,
+      48,
+      54,
+      55
+    ],
+    "size": [
+      3,
+      7
+    ]
+  },
+  {
+    "kind": "tail_mid",
+    "face": "up",
+    "uv": [
+      55,
+      48,
+      58,
+      51
+    ],
+    "size": [
+      3,
+      3
+    ]
+  },
+  {
+    "kind": "tail_mid",
+    "face": "down",
+    "uv": [
+      59,
+      48,
+      62,
+      51
+    ],
+    "size": [
+      3,
+      3
+    ]
+  },
+  {
+    "kind": "tail_tip",
+    "face": "north",
+    "uv": [
+      63,
+      48,
+      65,
+      55
+    ],
+    "size": [
+      2,
+      7
+    ]
+  },
+  {
+    "kind": "tail_tip",
+    "face": "south",
+    "uv": [
+      66,
+      48,
+      68,
+      55
+    ],
+    "size": [
+      2,
+      7
+    ]
+  },
+  {
+    "kind": "tail_tip",
+    "face": "east",
+    "uv": [
+      69,
+      48,
+      71,
+      55
+    ],
+    "size": [
+      2,
+      7
+    ]
+  },
+  {
+    "kind": "tail_tip",
+    "face": "west",
+    "uv": [
+      72,
+      48,
+      74,
+      55
+    ],
+    "size": [
+      2,
+      7
+    ]
+  },
+  {
+    "kind": "tail_tip",
+    "face": "up",
+    "uv": [
+      75,
+      48,
+      77,
+      50
+    ],
+    "size": [
+      2,
+      2
+    ]
+  },
+  {
+    "kind": "tail_tip",
+    "face": "down",
+    "uv": [
+      78,
+      48,
+      80,
+      50
+    ],
+    "size": [
+      2,
+      2
+    ]
+  }
+]

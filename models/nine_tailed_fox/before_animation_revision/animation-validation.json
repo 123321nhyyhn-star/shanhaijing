@@ -1,0 +1,64 @@
+{
+  "project": "九尾狐 · 25方块",
+  "cubes": 25,
+  "clips": [
+    {
+      "name": "animation.nine_tailed_fox.tail_low",
+      "duration": 8,
+      "loop": "loop",
+      "samples": 321,
+      "minimum_y": 0.04499980926513647,
+      "minimum_time": 0,
+      "loop_pose_error": 0
+    },
+    {
+      "name": "animation.nine_tailed_fox.idle",
+      "duration": 16,
+      "loop": "loop",
+      "samples": 641,
+      "minimum_y": 0.04499459408052875,
+      "minimum_time": 7.725,
+      "loop_pose_error": 0
+    },
+    {
+      "name": "animation.nine_tailed_fox.walk",
+      "duration": 1.2,
+      "loop": "loop",
+      "samples": 49,
+      "minimum_y": 0.03653606564814016,
+      "minimum_time": 0.9249999999999999,
+      "loop_pose_error": 0
+    },
+    {
+      "name": "animation.nine_tailed_fox.run",
+      "duration": 0.65,
+      "loop": "loop",
+      "samples": 27,
+      "minimum_y": 0.04499607552043461,
+      "minimum_time": 0.6000000000000001,
+      "loop_pose_error": 0
+    },
+    {
+      "name": "animation.nine_tailed_fox.sleep_down",
+      "duration": 4.5,
+      "loop": "hold",
+      "samples": 181,
+      "minimum_y": 0.035494819223803376,
+      "minimum_time": 0.625,
+      "loop_pose_error": null
+    },
+    {
+      "name": "animation.nine_tailed_fox.sleep_idle",
+      "duration": 5,
+      "loop": "loop",
+      "samples": 201,
+      "minimum_y": 0.08497433874089322,
+      "minimum_time": 3.75,
+      "loop_pose_error": 0
+    }
+  ],
+  "tested_in": "Blockbench 5.2.2 native Animator.preview and world bounds",
+  "minecraft_runtime_tested": false,
+  "sleep_transition_pose_error": 0,
+  "result": "PASS"
+}

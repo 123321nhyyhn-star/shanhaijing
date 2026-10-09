@@ -1,0 +1,16 @@
+{
+  "result": "PASS",
+  "animations": 6,
+  "cubes": 25,
+  "geometry_unchanged": true,
+  "rig_unchanged": true,
+  "uv_unchanged": true,
+  "approved_texture_unchanged": true,
+  "valid_export_bone_bindings": true,
+  "native_pose_samples": 1420,
+  "minimum_native_y": 0.035494819223803376,
+  "loop_seams_match": true,
+  "sleep_transition_matches": true,
+  "minecraft_runtime_tested": false,
+  "animation_sha256": "60bf95ebddb94214fddba79bbf2bec04661b932f9126bb91636f9dc5b1a896e0"
+}

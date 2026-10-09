@@ -1,0 +1,35 @@
+{
+  "result": "PASS",
+  "cubes": 25,
+  "quads": 150,
+  "triangles": 300,
+  "tails": {
+    "01": 2,
+    "02": 2,
+    "03": 2,
+    "04": 1,
+    "05": 1,
+    "06": 1,
+    "07": 2,
+    "08": 2,
+    "09": 2
+  },
+  "muzzle_cubes": 1,
+  "ear_cubes_each": 1,
+  "leg_cubes_each": 1,
+  "bones": 27,
+  "texture": [
+    128,
+    128
+  ],
+  "all_uv_within_atlas": true,
+  "embedded_texture_matches_png": true,
+  "geometry_export_cube_count": 25,
+  "format_version": "1.21.0",
+  "validation_scope": "Files and live Blockbench views; no Minecraft runtime test",
+  "sha256": {
+    "nine_tailed_fox.bbmodel": "1a81cd358391fce8ec6f1c3fdc0326546026b2b91f4bbccb9dded03c5945e692",
+    "nine_tailed_fox.geo.json": "698160c0cad09fd1a74e140d1982d6259cc0f8b73b4f81f4ab5c43c44b9450d8",
+    "nine_tailed_fox.png": "9a9d9c4c4550aad09f4b67257fe03502fc7113afab0dbc3843799780088bf640"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "project": "九尾狐 · 25方块",
+  "cubes": 25,
+  "clips": [
+    {
+      "name": "animation.nine_tailed_fox.tail_low",
+      "duration": 8,
+      "loop": "loop",
+      "samples": 321,
+      "minimum_y": 0.04499980926513647,
+      "minimum_time": 0,
+      "loop_pose_error": 0
+    },
+    {
+      "name": "animation.nine_tailed_fox.idle",
+      "duration": 16,
+      "loop": "loop",
+      "samples": 641,
+      "minimum_y": 0.04499459408052875,
+      "minimum_time": 7.725,
+      "loop_pose_error": 0
+    },
+    {
+      "name": "animation.nine_tailed_fox.walk",
+      "duration": 1.2,
+      "loop": "loop",
+      "samples": 49,
+      "minimum_y": 0.03653606564814016,
+      "minimum_time": 0.9249999999999999,
+      "loop_pose_error": 0
+    },
+    {
+      "name": "animation.nine_tailed_fox.run",
+      "duration": 2.6,
+      "loop": "loop",
+      "samples": 105,
+      "minimum_y": 0.04499607552043461,
+      "minimum_time": 0.6000000000000001,
+      "loop_pose_error": 0
+    },
+    {
+      "name": "animation.nine_tailed_fox.sleep_down",
+      "duration": 6,
+      "loop": "hold",
+      "samples": 241,
+      "minimum_y": 0.04056746866087213,
+      "minimum_time": 0.625,
+      "loop_pose_error": null
+    },
+    {
+      "name": "animation.nine_tailed_fox.sleep_idle",
+      "duration": 5,
+      "loop": "loop",
+      "samples": 201,
+      "minimum_y": 0.08497433874089322,
+      "minimum_time": 3.75,
+      "loop_pose_error": 0
+    }
+  ],
+  "tested_in": "Blockbench native Animator.preview and world bounds",
+  "minecraft_runtime_tested": false,
+  "sleep_transition_pose_error": 0,
+  "run_tail_ranges": {
+    "tail_01": {
+      "pitch": [
+        -48.67525700010733,
+        -31.57454700010733
+      ],
+      "yaw": [
+        -57.69287119289505,
+        -26.307131192895046
+      ]
+    },
+    "tail_02": {
+      "pitch": [
+        -55.7500478375165,
+        -38.4465378375165
+      ],
+      "yaw": [
+        -55.97676659195373,
+        -7.576206591953728
+      ]
+    },
+    "tail_03": {
+      "pitch": [
+        -53.81845744515747,
+        -33.09934744515748
+      ],
+      "yaw": [
+        -38.55275074230305,
+        -3.4472507423030474
+      ]
+    },
+    "tail_04": {
+      "pitch": [
+        -63.55968497248399,
+        -48.04508497248399
+      ],
+      "yaw": [
+        -43.40197804509744,
+        22.401981954902567
+      ]
+    },
+    "tail_05": {
+      "pitch": [
+        -60.882605685422355,
+        -45.12967568542236
+      ],
+      "yaw": [
+        -21.06269,
+        19.68565
+      ]
+    },
+    "tail_06": {
+      "pitch": [
+        -58.342164972483985,
+        -40.02061497248399
+      ],
+      "yaw": [
+        -23.23894195490256,
+        44.238938045097434
+      ]
+    },
+    "tail_07": {
+      "pitch": [
+        -55.49871744515748,
+        -34.048617445157475
+      ],
+      "yaw": [
+        -4.382819257696952,
+        46.38282074230305
+      ]
+    },
+    "tail_08": {
+      "pitch": [
+        -62.6328878375165,
+        -48.9890878375165
+      ],
+      "yaw": [
+        14.886546591953733,
+        46.21996659195372
+      ]
+    },
+    "tail_09": {
+      "pitch": [
+        -49.962827000107325,
+        -33.27437700010733
+      ],
+      "yaw": [
+        11.520441192895047,
+        72.47956119289505
+      ]
+    }
+  },
+  "sleep": {
+    "maximum_reverse_yaw_step": 0,
+    "front_leg_local_x": [
+      {
+        "name": "leg_front_left",
+        "x": 1.1
+      },
+      {
+        "name": "leg_front_right",
+        "x": -1.1
+      }
+    ],
+    "head_rotation": [
+      -10,
+      36,
+      -22
+    ],
+    "neck_rotation": [
+      -4,
+      24,
+      0
+    ],
+    "head_side_lower_start": 4,
+    "head_side_lower_end": 5.05,
+    "tail_cover_start": 4.95,
+    "tail_cover_end": 5.97,
+    "lowering_end": 2.15,
+    "sweep_start": 2.35,
+    "sweep_end": 4.4
+  },
+  "result": "PASS"
+}

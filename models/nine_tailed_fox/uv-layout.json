@@ -1,0 +1,842 @@
+{
+  "body:north": {
+    "uv": [
+      2,
+      2,
+      9,
+      8
+    ],
+    "kind": "body",
+    "face": "north",
+    "size": [
+      7,
+      6
+    ]
+  },
+  "body:south": {
+    "uv": [
+      11,
+      2,
+      18,
+      8
+    ],
+    "kind": "body",
+    "face": "south",
+    "size": [
+      7,
+      6
+    ]
+  },
+  "body:east": {
+    "uv": [
+      20,
+      2,
+      34,
+      8
+    ],
+    "kind": "body",
+    "face": "east",
+    "size": [
+      14,
+      6
+    ]
+  },
+  "body:west": {
+    "uv": [
+      36,
+      2,
+      50,
+      8
+    ],
+    "kind": "body",
+    "face": "west",
+    "size": [
+      14,
+      6
+    ]
+  },
+  "body:up": {
+    "uv": [
+      52,
+      2,
+      59,
+      16
+    ],
+    "kind": "body",
+    "face": "up",
+    "size": [
+      7,
+      14
+    ]
+  },
+  "body:down": {
+    "uv": [
+      61,
+      2,
+      68,
+      16
+    ],
+    "kind": "body",
+    "face": "down",
+    "size": [
+      7,
+      14
+    ]
+  },
+  "neck:north": {
+    "uv": [
+      70,
+      2,
+      75,
+      7
+    ],
+    "kind": "neck",
+    "face": "north",
+    "size": [
+      5,
+      5
+    ]
+  },
+  "neck:south": {
+    "uv": [
+      77,
+      2,
+      82,
+      7
+    ],
+    "kind": "neck",
+    "face": "south",
+    "size": [
+      5,
+      5
+    ]
+  },
+  "neck:east": {
+    "uv": [
+      84,
+      2,
+      88,
+      7
+    ],
+    "kind": "neck",
+    "face": "east",
+    "size": [
+      4,
+      5
+    ]
+  },
+  "neck:west": {
+    "uv": [
+      90,
+      2,
+      94,
+      7
+    ],
+    "kind": "neck",
+    "face": "west",
+    "size": [
+      4,
+      5
+    ]
+  },
+  "neck:up": {
+    "uv": [
+      96,
+      2,
+      101,
+      6
+    ],
+    "kind": "neck",
+    "face": "up",
+    "size": [
+      5,
+      4
+    ]
+  },
+  "neck:down": {
+    "uv": [
+      103,
+      2,
+      108,
+      6
+    ],
+    "kind": "neck",
+    "face": "down",
+    "size": [
+      5,
+      4
+    ]
+  },
+  "head:north": {
+    "uv": [
+      110,
+      2,
+      117,
+      8
+    ],
+    "kind": "head",
+    "face": "north",
+    "size": [
+      7,
+      6
+    ]
+  },
+  "head:south": {
+    "uv": [
+      119,
+      2,
+      126,
+      8
+    ],
+    "kind": "head",
+    "face": "south",
+    "size": [
+      7,
+      6
+    ]
+  },
+  "head:east": {
+    "uv": [
+      2,
+      18,
+      8,
+      24
+    ],
+    "kind": "head",
+    "face": "east",
+    "size": [
+      6,
+      6
+    ]
+  },
+  "head:west": {
+    "uv": [
+      10,
+      18,
+      16,
+      24
+    ],
+    "kind": "head",
+    "face": "west",
+    "size": [
+      6,
+      6
+    ]
+  },
+  "head:up": {
+    "uv": [
+      18,
+      18,
+      25,
+      24
+    ],
+    "kind": "head",
+    "face": "up",
+    "size": [
+      7,
+      6
+    ]
+  },
+  "head:down": {
+    "uv": [
+      27,
+      18,
+      34,
+      24
+    ],
+    "kind": "head",
+    "face": "down",
+    "size": [
+      7,
+      6
+    ]
+  },
+  "muzzle:north": {
+    "uv": [
+      36,
+      18,
+      39,
+      21
+    ],
+    "kind": "muzzle",
+    "face": "north",
+    "size": [
+      3,
+      3
+    ]
+  },
+  "muzzle:south": {
+    "uv": [
+      41,
+      18,
+      44,
+      21
+    ],
+    "kind": "muzzle",
+    "face": "south",
+    "size": [
+      3,
+      3
+    ]
+  },
+  "muzzle:east": {
+    "uv": [
+      46,
+      18,
+      50,
+      21
+    ],
+    "kind": "muzzle",
+    "face": "east",
+    "size": [
+      4,
+      3
+    ]
+  },
+  "muzzle:west": {
+    "uv": [
+      52,
+      18,
+      56,
+      21
+    ],
+    "kind": "muzzle",
+    "face": "west",
+    "size": [
+      4,
+      3
+    ]
+  },
+  "muzzle:up": {
+    "uv": [
+      58,
+      18,
+      61,
+      22
+    ],
+    "kind": "muzzle",
+    "face": "up",
+    "size": [
+      3,
+      4
+    ]
+  },
+  "muzzle:down": {
+    "uv": [
+      63,
+      18,
+      66,
+      22
+    ],
+    "kind": "muzzle",
+    "face": "down",
+    "size": [
+      3,
+      4
+    ]
+  },
+  "ear:north": {
+    "uv": [
+      68,
+      18,
+      71,
+      22
+    ],
+    "kind": "ear",
+    "face": "north",
+    "size": [
+      3,
+      4
+    ]
+  },
+  "ear:south": {
+    "uv": [
+      73,
+      18,
+      76,
+      22
+    ],
+    "kind": "ear",
+    "face": "south",
+    "size": [
+      3,
+      4
+    ]
+  },
+  "ear:east": {
+    "uv": [
+      78,
+      18,
+      79,
+      22
+    ],
+    "kind": "ear",
+    "face": "east",
+    "size": [
+      1,
+      4
+    ]
+  },
+  "ear:west": {
+    "uv": [
+      81,
+      18,
+      82,
+      22
+    ],
+    "kind": "ear",
+    "face": "west",
+    "size": [
+      1,
+      4
+    ]
+  },
+  "ear:up": {
+    "uv": [
+      84,
+      18,
+      87,
+      19
+    ],
+    "kind": "ear",
+    "face": "up",
+    "size": [
+      3,
+      1
+    ]
+  },
+  "ear:down": {
+    "uv": [
+      89,
+      18,
+      92,
+      19
+    ],
+    "kind": "ear",
+    "face": "down",
+    "size": [
+      3,
+      1
+    ]
+  },
+  "leg_front:north": {
+    "uv": [
+      94,
+      18,
+      96,
+      24
+    ],
+    "kind": "leg_front",
+    "face": "north",
+    "size": [
+      2,
+      6
+    ]
+  },
+  "leg_front:south": {
+    "uv": [
+      98,
+      18,
+      100,
+      24
+    ],
+    "kind": "leg_front",
+    "face": "south",
+    "size": [
+      2,
+      6
+    ]
+  },
+  "leg_front:east": {
+    "uv": [
+      102,
+      18,
+      105,
+      24
+    ],
+    "kind": "leg_front",
+    "face": "east",
+    "size": [
+      3,
+      6
+    ]
+  },
+  "leg_front:west": {
+    "uv": [
+      107,
+      18,
+      110,
+      24
+    ],
+    "kind": "leg_front",
+    "face": "west",
+    "size": [
+      3,
+      6
+    ]
+  },
+  "leg_front:up": {
+    "uv": [
+      112,
+      18,
+      114,
+      21
+    ],
+    "kind": "leg_front",
+    "face": "up",
+    "size": [
+      2,
+      3
+    ]
+  },
+  "leg_front:down": {
+    "uv": [
+      116,
+      18,
+      118,
+      21
+    ],
+    "kind": "leg_front",
+    "face": "down",
+    "size": [
+      2,
+      3
+    ]
+  },
+  "leg_hind:north": {
+    "uv": [
+      120,
+      18,
+      123,
+      24
+    ],
+    "kind": "leg_hind",
+    "face": "north",
+    "size": [
+      3,
+      6
+    ]
+  },
+  "leg_hind:south": {
+    "uv": [
+      2,
+      26,
+      5,
+      32
+    ],
+    "kind": "leg_hind",
+    "face": "south",
+    "size": [
+      3,
+      6
+    ]
+  },
+  "leg_hind:east": {
+    "uv": [
+      7,
+      26,
+      10,
+      32
+    ],
+    "kind": "leg_hind",
+    "face": "east",
+    "size": [
+      3,
+      6
+    ]
+  },
+  "leg_hind:west": {
+    "uv": [
+      12,
+      26,
+      15,
+      32
+    ],
+    "kind": "leg_hind",
+    "face": "west",
+    "size": [
+      3,
+      6
+    ]
+  },
+  "leg_hind:up": {
+    "uv": [
+      17,
+      26,
+      20,
+      29
+    ],
+    "kind": "leg_hind",
+    "face": "up",
+    "size": [
+      3,
+      3
+    ]
+  },
+  "leg_hind:down": {
+    "uv": [
+      22,
+      26,
+      25,
+      29
+    ],
+    "kind": "leg_hind",
+    "face": "down",
+    "size": [
+      3,
+      3
+    ]
+  },
+  "tail_base:north": {
+    "uv": [
+      27,
+      26,
+      30,
+      29
+    ],
+    "kind": "tail_base",
+    "face": "north",
+    "size": [
+      3,
+      3
+    ]
+  },
+  "tail_base:south": {
+    "uv": [
+      32,
+      26,
+      35,
+      29
+    ],
+    "kind": "tail_base",
+    "face": "south",
+    "size": [
+      3,
+      3
+    ]
+  },
+  "tail_base:east": {
+    "uv": [
+      37,
+      26,
+      48,
+      29
+    ],
+    "kind": "tail_base",
+    "face": "east",
+    "size": [
+      11,
+      3
+    ]
+  },
+  "tail_base:west": {
+    "uv": [
+      50,
+      26,
+      61,
+      29
+    ],
+    "kind": "tail_base",
+    "face": "west",
+    "size": [
+      11,
+      3
+    ]
+  },
+  "tail_base:up": {
+    "uv": [
+      63,
+      26,
+      66,
+      37
+    ],
+    "kind": "tail_base",
+    "face": "up",
+    "size": [
+      3,
+      11
+    ]
+  },
+  "tail_base:down": {
+    "uv": [
+      68,
+      26,
+      71,
+      37
+    ],
+    "kind": "tail_base",
+    "face": "down",
+    "size": [
+      3,
+      11
+    ]
+  },
+  "tail_tip:north": {
+    "uv": [
+      73,
+      26,
+      75,
+      28
+    ],
+    "kind": "tail_tip",
+    "face": "north",
+    "size": [
+      2,
+      2
+    ]
+  },
+  "tail_tip:south": {
+    "uv": [
+      77,
+      26,
+      79,
+      28
+    ],
+    "kind": "tail_tip",
+    "face": "south",
+    "size": [
+      2,
+      2
+    ]
+  },
+  "tail_tip:east": {
+    "uv": [
+      81,
+      26,
+      88,
+      28
+    ],
+    "kind": "tail_tip",
+    "face": "east",
+    "size": [
+      7,
+      2
+    ]
+  },
+  "tail_tip:west": {
+    "uv": [
+      90,
+      26,
+      97,
+      28
+    ],
+    "kind": "tail_tip",
+    "face": "west",
+    "size": [
+      7,
+      2
+    ]
+  },
+  "tail_tip:up": {
+    "uv": [
+      99,
+      26,
+      101,
+      33
+    ],
+    "kind": "tail_tip",
+    "face": "up",
+    "size": [
+      2,
+      7
+    ]
+  },
+  "tail_tip:down": {
+    "uv": [
+      103,
+      26,
+      105,
+      33
+    ],
+    "kind": "tail_tip",
+    "face": "down",
+    "size": [
+      2,
+      7
+    ]
+  },
+  "tail_long:north": {
+    "uv": [
+      107,
+      26,
+      110,
+      29
+    ],
+    "kind": "tail_long",
+    "face": "north",
+    "size": [
+      3,
+      3
+    ]
+  },
+  "tail_long:south": {
+    "uv": [
+      112,
+      26,
+      115,
+      29
+    ],
+    "kind": "tail_long",
+    "face": "south",
+    "size": [
+      3,
+      3
+    ]
+  },
+  "tail_long:east": {
+    "uv": [
+      2,
+      39,
+      19,
+      42
+    ],
+    "kind": "tail_long",
+    "face": "east",
+    "size": [
+      17,
+      3
+    ]
+  },
+  "tail_long:west": {
+    "uv": [
+      21,
+      39,
+      38,
+      42
+    ],
+    "kind": "tail_long",
+    "face": "west",
+    "size": [
+      17,
+      3
+    ]
+  },
+  "tail_long:up": {
+    "uv": [
+      40,
+      39,
+      43,
+      56
+    ],
+    "kind": "tail_long",
+    "face": "up",
+    "size": [
+      3,
+      17
+    ]
+  },
+  "tail_long:down": {
+    "uv": [
+      45,
+      39,
+      48,
+      56
+    ],
+    "kind": "tail_long",
+    "face": "down",
+    "size": [
+      3,
+      17
+    ]
+  }
+}

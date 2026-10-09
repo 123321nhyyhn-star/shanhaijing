@@ -1,0 +1,90 @@
+[
+  {
+    "model": "ModelGorilla",
+    "atlas": "gorilla.png",
+    "size": [
+      128,
+      128
+    ],
+    "transparent_pixels": 13960,
+    "partially_transparent_pixels": 0,
+    "visible_rgb_colors": 11
+  },
+  {
+    "model": "ModelTiger",
+    "atlas": "tiger/tiger.png",
+    "size": [
+      64,
+      64
+    ],
+    "transparent_pixels": 1672,
+    "partially_transparent_pixels": 0,
+    "visible_rgb_colors": 18
+  },
+  {
+    "model": "ModelMoose",
+    "atlas": "moose_antlered.png",
+    "size": [
+      128,
+      128
+    ],
+    "transparent_pixels": 11585,
+    "partially_transparent_pixels": 0,
+    "visible_rgb_colors": 19
+  },
+  {
+    "model": "ModelSunbird",
+    "atlas": "sunbird.png",
+    "size": [
+      256,
+      256
+    ],
+    "transparent_pixels": 59302,
+    "partially_transparent_pixels": 0,
+    "visible_rgb_colors": 28
+  },
+  {
+    "model": "ModelCrocodile",
+    "atlas": "crocodile_0.png",
+    "size": [
+      256,
+      256
+    ],
+    "transparent_pixels": 58993,
+    "partially_transparent_pixels": 0,
+    "visible_rgb_colors": 22
+  },
+  {
+    "model": "ModelBaldEagle",
+    "atlas": "bald_eagle.png",
+    "size": [
+      64,
+      32
+    ],
+    "transparent_pixels": 1401,
+    "partially_transparent_pixels": 0,
+    "visible_rgb_colors": 20
+  },
+  {
+    "model": "ModelBoneSerpentHead",
+    "atlas": "bone_serpent_head.png",
+    "size": [
+      128,
+      128
+    ],
+    "transparent_pixels": 13458,
+    "partially_transparent_pixels": 0,
+    "visible_rgb_colors": 14
+  },
+  {
+    "model": "ModelFroststalker",
+    "atlas": "froststalker.png",
+    "size": [
+      128,
+      128
+    ],
+    "transparent_pixels": 14668,
+    "partially_transparent_pixels": 0,
+    "visible_rgb_colors": 28
+  }
+]

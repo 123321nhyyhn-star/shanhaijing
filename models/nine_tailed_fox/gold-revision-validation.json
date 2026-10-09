@@ -1,0 +1,38 @@
+{
+  "result": "PASS",
+  "front_eyes": "two eyes, each 1x2 pixels, upper gold lower red",
+  "front_eye_pixels": {
+    "gold": [
+      [
+        111,
+        4
+      ],
+      [
+        115,
+        4
+      ]
+    ],
+    "red": [
+      [
+        111,
+        5
+      ],
+      [
+        115,
+        5
+      ]
+    ]
+  },
+  "side_eyes_removed": true,
+  "geometry_unchanged": true,
+  "gold_motifs": [
+    "body edge trim",
+    "four leg bands",
+    "nine tail bands before red tips"
+  ],
+  "texture_size": [
+    128,
+    128
+  ],
+  "cubes": 25
+}

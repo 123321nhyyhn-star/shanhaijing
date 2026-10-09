@@ -1,0 +1,10 @@
+{
+  "animation": "animation.xingxing.run",
+  "length": 0.64,
+  "maxTargetError": 0.000004841612691036354,
+  "maxArmSyncError": 0,
+  "minHandY": -0.0026952129743725906,
+  "minFootY": -0.004254572561906,
+  "maxLoopMatrixDifference": 0,
+  "samples": 65
+}

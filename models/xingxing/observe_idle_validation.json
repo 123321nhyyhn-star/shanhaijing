@@ -1,0 +1,40 @@
+{
+  "animation": "animation.xingxing.stand_observe",
+  "length": 6,
+  "stages": {
+    "rise": [
+      0,
+      0.6
+    ],
+    "pause": [
+      0.6,
+      1.35
+    ],
+    "look": [
+      1.35,
+      4.65
+    ],
+    "return_idle": [
+      4.65,
+      5.7
+    ],
+    "idle_hold": [
+      5.7,
+      6
+    ]
+  },
+  "yawDegrees": [
+    55,
+    -55
+  ],
+  "lowest": {
+    "y": -2.0664417604157578e-7,
+    "t": 0.6,
+    "name": "hindfoot_right"
+  },
+  "maxFootError": 0.000009789158938967296,
+  "maxYawError": 0.000006321349701465806,
+  "seam": 0,
+  "defaultPoseMatrixError": 0,
+  "otherChanged": []
+}

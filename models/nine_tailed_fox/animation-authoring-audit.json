@@ -1,0 +1,74 @@
+{
+  "tail_low": {
+    "duration": 8,
+    "loop": "loop",
+    "bones": 18,
+    "keys": 1170,
+    "minimum_sample_y": 0.045,
+    "maximum_floor_correction": 0.045,
+    "final_root_y": 0.045
+  },
+  "idle": {
+    "duration": 16,
+    "loop": "loop",
+    "bones": 21,
+    "keys": 2709,
+    "minimum_sample_y": 0.045,
+    "maximum_floor_correction": 0.12193,
+    "final_root_y": 0.05845
+  },
+  "walk": {
+    "duration": 1.2,
+    "loop": "loop",
+    "bones": 23,
+    "keys": 675,
+    "minimum_sample_y": 0.045,
+    "maximum_floor_correction": 0.38767,
+    "final_root_y": 0.09382
+  },
+  "run": {
+    "duration": 2.6,
+    "loop": "loop",
+    "bones": 25,
+    "keys": 3150,
+    "minimum_sample_y": 0.045,
+    "maximum_floor_correction": 1.01584,
+    "final_root_y": 0
+  },
+  "sleep_down": {
+    "duration": 6,
+    "loop": "hold",
+    "bones": 25,
+    "keys": 4840,
+    "minimum_sample_y": 0.045,
+    "maximum_floor_correction": 0.69183,
+    "final_root_y": 0
+  },
+  "sleep_idle": {
+    "duration": 5,
+    "loop": "loop",
+    "bones": 25,
+    "keys": 1640,
+    "minimum_sample_y": 0.08497,
+    "maximum_floor_correction": 0,
+    "final_root_y": 0
+  },
+  "sit_down": {
+    "duration": 2.2,
+    "loop": "hold",
+    "bones": 23,
+    "keys": 1260,
+    "minimum_sample_y": 0.045,
+    "maximum_floor_correction": 0.04732,
+    "final_root_y": 0
+  },
+  "sit_idle": {
+    "duration": 6,
+    "loop": "loop",
+    "bones": 23,
+    "keys": 1586,
+    "minimum_sample_y": 0.045,
+    "maximum_floor_correction": 0.00308,
+    "final_root_y": 0
+  }
+}
